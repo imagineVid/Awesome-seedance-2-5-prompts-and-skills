@@ -1,0 +1,32 @@
+{
+  "es": {
+    "1": { "title": "Paseo en bicicleta al atardecer por calles tranquilas", "description": "Un brief compacto que mantiene legibles a la ciclista y el suave seguimiento de cámara bajo luz natural en un barrio cotidiano." },
+    "2": { "title": "Robot hacker ciberpunk en un plano secuencia de treinta segundos", "description": "Un prompt deliberadamente mínimo para estudiar cómo un sujeto, su puesto de trabajo y una acción sostenida se desarrollan en un plano largo." },
+    "3": { "title": "Combate industrial con dos referencias e impactos cronometrados", "description": "Un brief de acción con dos imágenes que coordina blocking, cambios de cámara, cámara lenta, impactos y reacciones del entorno durante catorce segundos." }
+  },
+  "de": {
+    "1": { "title": "Fahrradfahrt bei goldenem Licht durch ruhige Straßen", "description": "Ein kompakter Brief, der Fahrerin und sanfte Kamerafahrt bei natürlichem Licht in einer alltäglichen Nachbarschaft klar lesbar hält." },
+    "2": { "title": "Dreißigsekündiger One-Take mit einem Cyberpunk-Hackerroboter", "description": "Ein bewusst minimaler Prompt, an dem sich untersuchen lässt, wie Motiv, Arbeitsplatz und fortlaufende Handlung zu einer langen Einstellung wachsen." },
+    "3": { "title": "Industriekampf mit zwei Referenzen und getakteten Treffern", "description": "Ein dichter Action-Brief mit zwei Bildreferenzen, der Blocking, Kamerawechsel, Zeitlupe, Treffer und Umgebungsreaktionen über vierzehn Sekunden koordiniert." }
+  },
+  "fr": {
+    "1": { "title": "Balade à vélo à l'heure dorée dans des rues calmes", "description": "Un brief compact qui garde la cycliste et le travelling doux lisibles, dans une lumière naturelle et un quartier quotidien." },
+    "2": { "title": "Robot hacker cyberpunk en plan-séquence de trente secondes", "description": "Un prompt volontairement minimal pour étudier comment un sujet, un poste de travail et une action continue se déploient en plan long." },
+    "3": { "title": "Combat industriel à deux références et impacts minutés", "description": "Un brief d'action dense qui coordonne deux combattants, mise en scène, changements de caméra, ralenti, impacts et réactions du décor sur quatorze secondes." }
+  },
+  "ja": {
+    "1": { "title": "静かな街を走るゴールデンアワーの自転車ショット", "description": "自然光の住宅街で、一人のサイクリストと穏やかな追従カメラを明瞭に保つコンパクトなショットブリーフです。" },
+    "2": { "title": "サイバーパンクのハッカーロボットを描く30秒ワンテイク", "description": "一つの被写体、作業環境、継続動作が長回しへどう展開されるかを検証できる、意図的に簡潔なプロンプトです。" },
+    "3": { "title": "2枚の参照画像で作るタイムコード付き工業地帯バトル", "description": "二人の格闘家を指定し、ブロッキング、カメラ変更、スロー、衝撃表現、環境反応を14秒にわたって同期する詳細なアクションブリーフです。" }
+  },
+  "ko": {
+    "1": { "title": "조용한 도심을 달리는 골든아워 자전거 장면", "description": "자연광이 비치는 일상적인 동네에서 한 명의 라이더와 부드러운 추적 카메라를 명확하게 유지하는 간결한 샷 브리프입니다." },
+    "2": { "title": "사이버펑크 해커 로봇의 30초 원테이크", "description": "하나의 피사체, 작업 공간과 지속 동작이 긴 장면으로 어떻게 확장되는지 살펴볼 수 있는 의도적으로 간결한 프롬프트입니다." },
+    "3": { "title": "두 참조 이미지로 만든 타임코드 산업 격투 장면", "description": "두 전투원을 지정하고 블로킹, 카메라 전환, 슬로모션, 충격 효과와 환경 반응을 14초 동안 조율하는 밀도 높은 액션 브리프입니다." }
+  },
+  "zh": {
+    "1": { "title": "金色时刻骑行穿过安静街区", "description": "一份紧凑的文生视频简报，在自然光和日常街区环境中保持骑行者清晰，并用平滑跟拍维持画面可读性。" },
+    "2": { "title": "赛博朋克黑客机器人三十秒一镜到底", "description": "一条刻意保持简短的提示词，用来观察单一主体、工作台环境和持续动作如何扩展成长镜头。" },
+    "3": { "title": "双参考图工业格斗与分秒冲击设计", "description": "一份高密度动作简报，以两名角色为参考，在十四秒时间轴内协调调度、镜头变化、慢动作、冲击特效和环境反馈。" }
+  }
+}

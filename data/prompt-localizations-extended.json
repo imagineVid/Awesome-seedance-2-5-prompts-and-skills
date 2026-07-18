@@ -1,0 +1,37 @@
+{
+  "pt": {
+    "1": { "title": "Passeio de bicicleta na hora dourada por ruas tranquilas", "description": "Um briefing compacto que mantém a ciclista e o suave acompanhamento de câmara legíveis sob luz natural num bairro quotidiano." },
+    "2": { "title": "Robot hacker cyberpunk num plano contínuo de trinta segundos", "description": "Um prompt deliberadamente mínimo para estudar como um sujeito, o posto de trabalho e uma ação contínua se expandem num plano longo." },
+    "3": { "title": "Combate industrial com duas referências e impactos cronometrados", "description": "Um briefing de ação denso que coordena dois lutadores, marcação, mudanças de câmara, câmara lenta, impactos e reações do ambiente durante catorze segundos." }
+  },
+  "it": {
+    "1": { "title": "Giro in bicicletta nell'ora dorata tra strade tranquille", "description": "Un brief compatto che mantiene leggibili la ciclista e il dolce movimento di camera nella luce naturale di un quartiere quotidiano." },
+    "2": { "title": "Robot hacker cyberpunk in un piano sequenza di trenta secondi", "description": "Un prompt volutamente minimale per studiare come soggetto, postazione e azione continua si sviluppano in una lunga ripresa." },
+    "3": { "title": "Scontro industriale con due riferimenti e impatti temporizzati", "description": "Un brief d'azione denso che coordina due combattenti, blocking, cambi camera, slow motion, impatti e reazioni ambientali per quattordici secondi." }
+  },
+  "ar": {
+    "1": { "title": "جولة دراجة وقت الغروب في شوارع هادئة", "description": "موجز مدمج يحافظ على وضوح الراكبة وحركة التتبع الهادئة ضمن ضوء طبيعي وحي يومي." },
+    "2": { "title": "لقطة متصلة لثلاثين ثانية لروبوت مخترق سايبربانك", "description": "مطالبة موجزة عمدًا لدراسة كيفية توسع شخصية واحدة ومحطة عمل وفعل مستمر إلى لقطة طويلة." },
+    "3": { "title": "قتال صناعي بمرجعين وتأثيرات مضبوطة زمنيًا", "description": "موجز حركة كثيف ينسق مقاتلين والتوزيع وتغييرات الكاميرا والتصوير البطيء والاصطدامات واستجابة البيئة على مدى أربع عشرة ثانية." }
+  },
+  "nl": {
+    "1": { "title": "Fietstocht tijdens het gouden uur door rustige straten", "description": "Een compacte briefing die één fietser en een vloeiende volgbeweging helder houdt in natuurlijk licht en een alledaagse buurt." },
+    "2": { "title": "Cyberpunk-hackerrobot in een one-take van dertig seconden", "description": "Een bewust minimale prompt om te bestuderen hoe één onderwerp, werkplek en doorlopende handeling uitgroeien tot een lange take." },
+    "3": { "title": "Industrieel gevecht met twee referenties en getimede impacts", "description": "Een dichte actiebriefing die twee vechters, blocking, camerawissels, slow motion, impacts en omgevingsreacties over veertien seconden coördineert." }
+  },
+  "ru": {
+    "1": { "title": "Велопрогулка в золотой час по тихим улицам", "description": "Компактный бриф сохраняет ясность героини и плавного сопровождения камеры в естественном свете обычного городского района." },
+    "2": { "title": "Тридцатисекундный непрерывный план с киберпанк-роботом", "description": "Намеренно минимальный промпт для изучения того, как один герой, рабочее место и непрерывное действие раскрываются в длинном плане." },
+    "3": { "title": "Индустриальный бой с двумя референсами и точным таймингом", "description": "Плотный экшен-бриф координирует двух бойцов, мизансцену, смену камеры, замедление, удары и реакцию окружения в течение четырнадцати секунд." }
+  },
+  "tr": {
+    "1": { "title": "Sakin sokaklarda altın saat bisiklet yolculuğu", "description": "Doğal ışıklı gündelik bir mahallede tek bisikletçiyi ve yumuşak takip hareketini anlaşılır tutan kısa bir çekim brifi." },
+    "2": { "title": "Siberpunk hacker robotla otuz saniyelik tek çekim", "description": "Tek bir özne, çalışma alanı ve kesintisiz eylemin uzun çekime nasıl yayıldığını incelemek için bilinçli olarak kısa tutulmuş bir prompt." },
+    "3": { "title": "İki referanslı ve zaman kodlu endüstriyel dövüş", "description": "İki dövüşçüyü, bloklamayı, kamera değişimlerini, ağır çekimi, darbeleri ve çevre tepkilerini on dört saniyede koordine eden yoğun bir aksiyon brifi." }
+  },
+  "pl": {
+    "1": { "title": "Rowerowa przejażdżka w złotej godzinie po cichych ulicach", "description": "Zwięzły brief utrzymujący czytelność rowerzystki i płynnego ruchu kamery w naturalnym świetle zwykłej dzielnicy." },
+    "2": { "title": "Cyberpunkowy robot-haker w trzydziestosekundowym ujęciu", "description": "Celowo minimalny prompt do analizy, jak jeden bohater, stanowisko pracy i ciągła akcja rozwijają się w długim ujęciu." },
+    "3": { "title": "Industrialna walka z dwiema referencjami i czasowanymi uderzeniami", "description": "Gęsty brief akcji koordynujący dwóch zawodników, blocking, zmiany kamery, zwolnienia, uderzenia i reakcje otoczenia przez czternaście sekund." }
+  }
+}

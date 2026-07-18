@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "model": "seedance-2.5",
+    "title": {
+      "en": "Golden-hour bicycle ride through quiet city streets"
+    },
+    "description": {
+      "en": "A compact text-to-video brief that keeps one rider and a gentle tracking move readable through natural daylight and an everyday neighborhood setting."
+    },
+    "content": {
+      "en": "A young East Asian woman riding a bicycle through quiet city streets, casually exploring the neighborhood, cinematic, natural daylight, realistic, smooth camera movement."
+    },
+    "sourceLink": "https://x.com/noorwithwifi/status/2074956913075491029",
+    "sourcePublishedAt": "2026-07-08T20:40:53.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2074956835250122752/pu/img/fiGWvsKanTErJ-Ht.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2074956835250122752/pu/vid/avc1/1280x720/GGVJY84yqzPpP7dZ.mp4?tag=26",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2074956835250122752/pu/img/fiGWvsKanTErJ-Ht.jpg"
+    },
+    "author": {
+      "name": "@noorwithwifi",
+      "link": "https://x.com/noorwithwifi"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 1,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074956913075491029",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "seedance-2.5",
+      "likeCount": 122,
+      "input_mode": "text-to-video",
+      "curation_note": "The canonical post explicitly names Seedance 2.5, supplies the complete English prompt, and attaches the generated video."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 74,
+          "title": "Narrative Continuity & Character Performance",
+          "slug": "narrative-continuity-character-performance"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "model": "seedance-2.5",
+    "title": {
+      "en": "Thirty-second cyberpunk hacker robot one-take"
+    },
+    "description": {
+      "en": "A deliberately minimal prompt paired with a thirty-second result, useful for studying how a single subject, workstation setting, and sustained action expand into a long take."
+    },
+    "content": {
+      "en": "Cyberpunk hacker robot working in front of many monitors."
+    },
+    "sourceLink": "https://x.com/thedoomguy_ai/status/2077113772959740310",
+    "sourcePublishedAt": "2026-07-14T19:31:29.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2077113718106648577/pu/img/EyN9swzCeqGu4nZy.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2077113718106648577/pu/vid/avc1/1280x720/twNk6uhZZRnoFngO.mp4?tag=12",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2077113718106648577/pu/img/EyN9swzCeqGu4nZy.jpg"
+    },
+    "author": {
+      "name": "@thedoomguy_ai",
+      "link": "https://x.com/thedoomguy_ai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 2,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077113772959740310",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "seedance-2.5",
+      "likeCount": 0,
+      "input_mode": "text-to-video",
+      "curation_note": "Selected despite low engagement because the post explicitly identifies Seedance 2.5 Pro, quotes the complete prompt, and exposes the thirty-second result."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 72,
+          "title": "Long-Take Blocking & Camera Paths",
+          "slug": "long-take-blocking-camera-paths"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "model": "seedance-2.5",
+    "title": {
+      "en": "Two-reference industrial fight with timestamped impacts"
+    },
+    "description": {
+      "en": "A dense image-referenced action brief that assigns two fighters, then coordinates blocking, camera changes, slow motion, impact effects, and environmental reactions across a fourteen-second timeline."
+    },
+    "content": {
+      "en": "Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool grays and steel-blue hues, contrasted with the heavy, rugged textures of industrial machinery. Lighting & Shadow: Intense overhead lighting (mimicking a cage fight) casts sharp, deep shadows across the concrete floor and the characters' faces, emphasizing a sense of raw power.\n\n[Timeline: Detailed Action & Camera Instructions]\n\n00:00-00:01 | Pre-fight Standoff\n[Combat Action]: @ Image1 and @ Image2 assume low-center-of-gravity fighting stances; their muscles are taut and tense.\n[Camera Technique]: A horizontal pan (medium shot) sweeps from right to left across both characters, establishing the space of confrontation.\n[Visual Effects]: Semi-transparent \"GAME START\" text floats in mid-air, featuring a metallic sheen and worn, distressed edges.\n\n00:01-00:03 | Flying Kick & Cross-Arm Block\n[Combat Action]: @ Image1 rapidly launches a fierce high side-kick at a 45-degree upward angle. @ Image2 instantly slides sideways, crossing arms into a shield-like \"X\" formation to block the incoming kick with solid, bone-jarring force.\n[Camera Technique]: A whip zoom locks onto the point of impact, transitioning to slow motion (quarter speed) at the exact moment the leg and arms collide.\n[Visual Effects]: The point of impact triggers a visible air-distortion ripple, accompanied by a scattering of sparks and dust particles generated by the friction.\n\n00:03-00:06 | Close-Quarters Blitz & Facial Impact\n[Combat Action]: After absorbing the blow, @ Image2 immediately counters with a rapid-fire \"one-inch punch\" combo, striking from both left and right. @ Image1 dodges hastily. @ Image2 follows through with a powerful right hook, fueled by hip rotation, that slams into @ Image1's left cheek, causing facial distortion and sending a spray of saliva and blood droplets flying.\n[Camera Technique]: Handheld camera work sways with the body, creating a documentary-style shaky-cam aesthetic; micro-second screen shake marks the moment of a heavy punch impact.\n[Visual Effects]: High-frequency \"impact frames\" (staccato light and shadow flashes) occur the instant the face is struck; sweat appears as glowing particles under side lighting.\n\n00:06-00:10 | Pursuit and Liver-Targeting Knee Strike\n[Action]: @ Image2 denies the opponent a chance to recover, stepping in to close the distance; the right hand hooks the back of @ Image1's neck and pulls downward while the right knee drives violently upward, delivering a knee strike to the liver. @ Image1 retches, body arching and curling in pain.\n[Camera Technique]: Extreme low-angle shot looking upward to emphasize the power and impact of the knee strike.\n[Visual Effects]: Realistic fabric indentation and intense creasing appear the moment the knee makes contact.\n\n00:10-00:12 | Head-Clinch Slam\n[Action]: @ Image2 locks both hands around @ Image1's head, twists the torso with leg-driven power, and executes a 180-degree arc throw, slamming @ Image1's head and upper body against the concrete ground.\n[Camera Technique]: Rapid tilt down; the camera tracks the trajectory of the falling figure.\n[Visual Effects]: On impact, localized cracks appear on the ground and a dense cloud of dust and grit explodes outward.\n\n00:12-00:14 | Final Struggle\n[Action]: @ Image1 lies in the dust, curled in pain; the right hand weakly clutches the abdomen, the chest heaves with labored breathing, and the eyes lose focus.\n[Camera Technique]: Slow overhead close-up; the camera rotates slightly and pulls back with a crane move.\n[Visual Effects]: Realistic airborne dust particles float in front of the lens, with subtle film grain across the image."
+    },
+    "sourceLink": "https://x.com/AIReelofficial/status/2077729460644872389",
+    "sourcePublishedAt": "2026-07-16T12:18:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2077336525373923328/img/X_8KtfVsQRT45Kfa.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2077336525373923328/vid/avc1/1920x1080/wlKvDYYr__Dylt21.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077336525373923328/img/X_8KtfVsQRT45Kfa.jpg"
+    },
+    "author": {
+      "name": "@AIReelofficial",
+      "link": "https://x.com/AIReelofficial"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 3,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077729460644872389",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "seedance-2.5",
+      "likeCount": 1,
+      "input_mode": "image-to-video",
+      "curation_note": "The complete public prompt is preserved with punctuation and spacing normalized for readability; the post names Seedance 2.5 and attaches the result video."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 71,
+          "title": "Multimodal Reference Direction",
+          "slug": "multimodal-reference-direction"
+        }
+      ]
+    }
+  }
+]
