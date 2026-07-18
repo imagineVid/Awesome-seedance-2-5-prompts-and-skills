@@ -100,7 +100,7 @@
 |--------|-------|
 | Проверенные примеры | **3** |
 | Редакционный выбор | **2** |
-| Сгенерировано | **суббота, 18 июля 2026 г. в 07:01:47 UTC** |
+| Сгенерировано | **суббота, 18 июля 2026 г. в 09:37:51 UTC** |
 
 </div>
 
@@ -333,6 +333,6 @@ Cyberpunk hacker robot working in front of many monitors.
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-18T07:01:47.309Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-18T09:37:51.359Z</sub>
 
 </div>
