@@ -100,7 +100,7 @@ Empieza con una acción y una idea de cámara. Añade restricciones de tiempo, a
 |--------|-------|
 | Casos verificados | **3** |
 | Selección editorial | **2** |
-| Generado | **sábado, 18 de julio de 2026, 20:55:11 UTC** |
+| Generado | **domingo, 19 de julio de 2026, 3:19:30 UTC** |
 
 </div>
 
@@ -333,6 +333,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-07-18T20:55:11.590Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-07-19T03:19:30.636Z</sub>
 
 </div>
