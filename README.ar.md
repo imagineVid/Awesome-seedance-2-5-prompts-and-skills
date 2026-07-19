@@ -100,7 +100,7 @@
 |--------|-------|
 | أمثلة موثّقة | **3** |
 | اختيار تحريري | **2** |
-| تاريخ التوليد | **الأحد، 19 يوليو 2026 في 3:19:30 ص UTC** |
+| تاريخ التوليد | **الأحد، 19 يوليو 2026 في 6:34:26 ص UTC** |
 
 </div>
 
@@ -333,6 +333,6 @@ Cyberpunk hacker robot working in front of many monitors.
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-19T03:19:30.692Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-19T06:34:26.777Z</sub>
 
 </div>
