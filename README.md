@@ -98,9 +98,9 @@ Start with one visible action and one camera decision. Add references, sound, ti
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **3** |
+| Verified Cases | **5** |
 | Editorial pick | **2** |
-| Generated | **Tuesday, July 21, 2026 at 10:28:16 AM UTC** |
+| Generated | **Tuesday, July 21, 2026 at 1:47:08 PM UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Assign a job to every reference - State which input controls identity, compositi
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Long-Take Blocking & Camera Paths (1)
+### Long-Take Blocking & Camera Paths (2)
 
 Shot briefs built around framing, camera path, blocking, pacing, reveals, and transitions.
 
@@ -268,6 +268,82 @@ Cyberpunk hacker robot working in front of many monitors.
 - **Creator:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **Canonical source:** [Canonical source](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **Published:** July 14, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: Four-season transformation in one continuous take
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+An editorial reconstruction of a public Seedance 2.5 showcase concept, designed to test thirty-second environmental continuity through four seasonal states.
+
+##### Source prompt
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="Four-season transformation in one continuous take - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### Evidence
+
+- **Creator:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **Canonical source:** [Canonical source](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **Published:** June 29, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### Dialogue, Foley & Music Timing (1)
+
+Performance-led prompts where speech, acting, ambience, music, or synchronized sound carries the scene.
+
+<a id="prompt-4"></a>
+
+#### #3: Dark alien-arrival trailer
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A deliberately short thirty-second trailer prompt that tests whether the model can infer escalating mystery, worldwide scale, and coherent cinematic pacing.
+
+##### Source prompt
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="Dark alien-arrival trailer - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### Evidence
+
+- **Creator:** [@synthwavedd](https://x.com/synthwavedd)
+- **Canonical source:** [Canonical source](https://x.com/synthwavedd/status/2075206446879265049)
+- **Published:** July 9, 2026
 - **Prompt language:** en
 
 **[Use this prompt on ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +387,9 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 ## Creator Credits
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +409,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-21T10:28:16.908Z</sub>
+<sub>Generated from versioned local data on 2026-07-21T13:47:08.794Z</sub>
 
 </div>

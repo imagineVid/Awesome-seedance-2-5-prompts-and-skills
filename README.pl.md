@@ -98,9 +98,9 @@ Zacznij od jednej akcji i jednego pomysłu na kamerę. Dodawaj timing, audio i o
 
 | Pole kolekcji | Bieżąca wartość |
 |--------|-------|
-| Zweryfikowane przykłady | **3** |
+| Zweryfikowane przykłady | **5** |
 | Wybór redakcji | **2** |
-| Wygenerowano | **wtorek, 21 lipca 2026 10:28:17 UTC** |
+| Wygenerowano | **wtorek, 21 lipca 2026 13:47:08 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Przypisz zadanie każdej referencji - Określ, które wejście steruje tożsamo�
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Blocking i trasy kamery w długich ujęciach (1)
+### Blocking i trasy kamery w długich ujęciach (2)
 
 Briefy ujęć oparte na kadrowaniu, trasie kamery, blockingu, tempie, ujawnieniach i przejściach.
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **Twórca:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **Źródło kanoniczne:** [Źródło kanoniczne](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **Opublikowano:** 14 lipca 2026
+- **Język promptu:** en
+
+**[Utwórz z tym kierunkiem · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: Cztery pory roku w jednym ciągłym ujęciu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Dlaczego ten workflow ma znaczenie
+
+Redakcyjna rekonstrukcja publicznego pokazu do testowania trzydziestu sekund ciągłości środowiska.
+
+##### Prompt zlokalizowany
+
+```
+Stwórz jedno nieprzerwane, 30-sekundowe przejście kamery przez ten sam krajobraz: wiosna zmienia się w lato, lato w jesień, a jesień w zimę. Zachowaj trasę, położenie punktów orientacyjnych i prędkość; naturalnie zmieniaj roślinność, pogodę, światło, podłoże, dźwięk i aktywność ludzi. Ukryj przejścia za pierwszym planem, cząstkami lub uzasadnionym obrotem. Bez cięć, skoków geometrii i zmian tożsamości. Zakończ na tej samej osi kompozycji co początek.
+```
+
+<details>
+<summary>Oryginalny prompt źródłowy</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### Wideo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="Cztery pory roku w jednym ciągłym ujęciu - Motion preview"></a>
+
+*Kliknij podgląd, aby otworzyć wideo* · **[▶ Obejrzyj wideo →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### Dowody
+
+- **Twórca:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **Źródło kanoniczne:** [Źródło kanoniczne](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **Opublikowano:** 29 czerwca 2026
+- **Język promptu:** en
+
+**[Utwórz z tym kierunkiem · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### Timing dialogu, Foley i muzyki (1)
+
+Prompty oparte na występie, w których mowę, aktorstwo, atmosferę, muzykę lub zsynchronizowany dźwięk niesie scena.
+
+<a id="prompt-4"></a>
+
+#### #3: Mroczny zwiastun przybycia obcych
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Dlaczego ten workflow ma znaczenie
+
+Krótki, trzydziestosekundowy prompt sprawdzający narastającą tajemnicę, globalną skalę i spójne tempo filmowe.
+
+##### Prompt zlokalizowany
+
+```
+Filmowy, mroczny i tajemniczy zwiastun opowieści o przybyciu obcych na Ziemię.
+```
+
+<details>
+<summary>Oryginalny prompt źródłowy</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### Wideo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="Mroczny zwiastun przybycia obcych - Motion preview"></a>
+
+*Kliknij podgląd, aby otworzyć wideo* · **[▶ Obejrzyj wideo →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### Dowody
+
+- **Twórca:** [@synthwavedd](https://x.com/synthwavedd)
+- **Źródło kanoniczne:** [Źródło kanoniczne](https://x.com/synthwavedd/status/2075206446879265049)
+- **Opublikowano:** 9 lipca 2026
 - **Język promptu:** en
 
 **[Utwórz z tym kierunkiem · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 ## Kredyty twórców
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-21T10:28:17.012Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-21T13:47:08.811Z</sub>
 
 </div>

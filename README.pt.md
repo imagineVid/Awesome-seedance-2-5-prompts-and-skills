@@ -98,9 +98,9 @@ Comece com uma ação e uma ideia de câmara. Acrescente timing, áudio e restri
 
 | Campo da coleção | Valor atual |
 |--------|-------|
-| Casos verificados | **3** |
+| Casos verificados | **5** |
 | Seleção editorial | **2** |
-| Gerado | **terça-feira, 21 de julho de 2026 às 10:28:16 UTC** |
+| Gerado | **terça-feira, 21 de julho de 2026 às 13:47:08 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Atribua uma função a cada referência - Indique qual entrada controla identida
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Marcação e percursos de câmara em plano-sequência (1)
+### Marcação e percursos de câmara em plano-sequência (2)
 
 Briefings construídos em torno do enquadramento, percurso da câmara, marcação, ritmo, revelações e transições.
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **Criador:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **Fonte canónica:** [Fonte canónica](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **Publicado:** 14 de julho de 2026
+- **Idioma do prompt:** en
+
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: Quatro estações num plano contínuo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Porque é que o fluxo é importante
+
+Reconstrução editorial de uma demonstração pública para testar continuidade ambiental durante trinta segundos.
+
+##### Prompt localizado
+
+```
+Crie um único movimento de câmara contínuo de 30 segundos pela mesma paisagem enquanto a primavera passa ao verão, o verão ao outono e o outono ao inverno. Preserve o percurso, os marcos e a velocidade da câmara; faça evoluir naturalmente vegetação, clima, luz, solo, som e atividade humana. Oculte cada transição com primeiro plano, partículas ou uma rotação motivada. Sem cortes, saltos de geometria ou mudanças de identidade. Termine no mesmo eixo compositivo do início.
+```
+
+<details>
+<summary>Prompt original da fonte</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### Vídeo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="Quatro estações num plano contínuo - Motion preview"></a>
+
+*Clique na prévia para abrir o vídeo* · **[▶ Ver vídeo →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### Evidência
+
+- **Criador:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **Fonte canónica:** [Fonte canónica](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **Publicado:** 29 de junho de 2026
+- **Idioma do prompt:** en
+
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### Sincronização de diálogo, Foley e música (1)
+
+Prompts em que a fala, a interpretação, o ambiente sonoro, a música ou o som sincronizado conduzem a cena.
+
+<a id="prompt-4"></a>
+
+#### #3: Trailer sombrio de chegada alienígena
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Porque é que o fluxo é importante
+
+Prompt curto de trinta segundos para testar mistério crescente, escala global e ritmo cinematográfico coerente.
+
+##### Prompt localizado
+
+```
+Um trailer cinematográfico, sombrio e misterioso para um filme sobre alienígenas a chegar à Terra.
+```
+
+<details>
+<summary>Prompt original da fonte</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### Vídeo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="Trailer sombrio de chegada alienígena - Motion preview"></a>
+
+*Clique na prévia para abrir o vídeo* · **[▶ Ver vídeo →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### Evidência
+
+- **Criador:** [@synthwavedd](https://x.com/synthwavedd)
+- **Fonte canónica:** [Fonte canónica](https://x.com/synthwavedd/status/2075206446879265049)
+- **Publicado:** 9 de julho de 2026
 - **Idioma do prompt:** en
 
 **[Criar com esta direção · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 ## Créditos dos criadores
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 **[Enviar um caso verificado](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma estrela à coleção](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Gerado a partir de dados locais versionados em 2026-07-21T10:28:16.928Z</sub>
+<sub>Gerado a partir de dados locais versionados em 2026-07-21T13:47:08.798Z</sub>
 
 </div>

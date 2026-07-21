@@ -98,9 +98,9 @@
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **3** |
+| 已核验案例 | **5** |
 | 编辑精选 | **2** |
-| 生成时间 | **2026年7月21日星期二 UTC 10:28:16** |
+| 生成时间 | **2026年7月21日星期二 UTC 13:47:08** |
 
 </div>
 
@@ -235,7 +235,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### 长镜头调度与镜头路径 (1)
+### 长镜头调度与镜头路径 (2)
 
 围绕构图、镜头路径、调度、节奏、揭示和转场构建的镜头简报。
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **创作者:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **规范来源:** [规范来源](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **发布时间:** 2026年7月14日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: 一个连续镜头中的四季变换
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+基于公开演示概念重构的提示词，用于测试三十秒环境连续性。
+
+##### 本地化提示词
+
+```
+用一个不间断的 30 秒镜头穿越同一片景观，让春天转为夏天、夏天转为秋天、秋天转为冬天。精确保留摄影机路径、地标位置和移动速度，让植被、天气、光线、地面质感、环境声和人物活动自然演变。利用前景遮挡、漂浮粒子或有动机的转向隐藏每次过渡。不得剪辑、跳变几何或改变主体身份。结尾回到开场建立的同一构图轴。
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="一个连续镜头中的四季变换 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### 证据
+
+- **创作者:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **规范来源:** [规范来源](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **发布时间:** 2026年6月29日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### 对白、拟音与音乐时序 (1)
+
+以对白、表演、环境声、音乐或同步声音推动场景的表演型提示词。
+
+<a id="prompt-4"></a>
+
+#### #3: 黑暗神秘的外星降临预告片
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+用极短的三十秒提示词测试悬念递进、全球尺度和连贯的电影节奏。
+
+##### 本地化提示词
+
+```
+一支电影感、黑暗而神秘的预告片，讲述外星人降临地球。
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="黑暗神秘的外星降临预告片 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### 证据
+
+- **创作者:** [@synthwavedd](https://x.com/synthwavedd)
+- **规范来源:** [规范来源](https://x.com/synthwavedd/status/2075206446879265049)
+- **发布时间:** 2026年7月9日
 - **提示词语言:** en
 
 **[按此方向创作 · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 ## 创作者鸣谢
 
 <details>
-<summary>查看并感谢社区作者 (3)</summary>
+<summary>查看并感谢社区作者 (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-21T10:28:16.987Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-21T13:47:08.807Z</sub>
 
 </div>

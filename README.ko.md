@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **3** |
+| 검증된 사례 | **5** |
 | 에디터 추천 | **2** |
-| 생성 시각 | **2026년 7월 21일 화요일 오전 10시 28분 16초 UTC** |
+| 생성 시각 | **2026년 7월 21일 화요일 PM 1시 47분 8초 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### 롱테이크 블로킹 및 카메라 경로 (1)
+### 롱테이크 블로킹 및 카메라 경로 (2)
 
 프레이밍, 카메라 경로, 블로킹, 페이싱, 공개 순서, 전환을 중심으로 구성한 샷 브리프입니다.
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **제작자:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **정식 출처:** [정식 출처](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **게시일:** 2026년 7월 14일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: 원테이크로 흐르는 사계절
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+공개 데모를 편집적으로 재구성해 30초 환경 연속성을 시험하는 프롬프트입니다.
+
+##### 현지화 프롬프트
+
+```
+같은 풍경을 지나는 하나의 연속된 30초 카메라 이동 안에서 봄이 여름으로, 여름이 가을로, 가을이 겨울로 바뀐다. 경로, 랜드마크 위치와 카메라 속도는 그대로 유지하고 식생, 날씨, 빛, 지면, 환경음과 사람들의 활동만 자연스럽게 변화시킨다. 전경 가림, 흩날리는 입자 또는 동기 있는 회전으로 전환을 숨긴다. 컷, 지오메트리 점프, 정체성 변화는 금지한다. 시작과 같은 구도 축에서 끝낸다.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="원테이크로 흐르는 사계절 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### 근거
+
+- **제작자:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **정식 출처:** [정식 출처](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **게시일:** 2026년 6월 29일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### 대사, 폴리 및 음악 타이밍 (1)
+
+대사, 연기, 분위기음, 음악 또는 동기화된 사운드가 장면을 이끄는 퍼포먼스 중심 프롬프트입니다.
+
+<a id="prompt-4"></a>
+
+#### #3: 외계인 도착을 다룬 어두운 예고편
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+짧은 30초 지시로 고조되는 미스터리, 세계적 규모와 일관된 영화적 호흡을 시험합니다.
+
+##### 현지화 프롬프트
+
+```
+외계인이 지구에 도착하는 영화의 시네마틱하고 어둡고 미스터리한 예고편.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="외계인 도착을 다룬 어두운 예고편 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### 근거
+
+- **제작자:** [@synthwavedd](https://x.com/synthwavedd)
+- **정식 출처:** [정식 출처](https://x.com/synthwavedd/status/2075206446879265049)
+- **게시일:** 2026년 7월 9일
 - **프롬프트 언어:** en
 
 **[이 연출로 만들기 · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-21T10:28:16.980Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-21T13:47:08.805Z</sub>
 
 </div>

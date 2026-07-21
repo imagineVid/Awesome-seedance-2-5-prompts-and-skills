@@ -98,9 +98,9 @@ Inizia con un'azione e un'idea per la camera. Aggiungi timing, audio e vincoli d
 
 | Campo della raccolta | Valore corrente |
 |--------|-------|
-| Casi verificati | **3** |
+| Casi verificati | **5** |
 | Selezione editoriale | **2** |
-| Generato | **martedì 21 luglio 2026 alle ore 10:28:16 UTC** |
+| Generato | **martedì 21 luglio 2026 alle ore 13:47:08 UTC** |
 
 </div>
 
@@ -139,7 +139,7 @@ A young East Asian woman riding a bicycle through quiet city streets, casually e
 
 #### Elementi di prova
 
-- **Creator:** [@noorwithwifi](https://x.com/noorwithwifi)
+- **Autore:** [@noorwithwifi](https://x.com/noorwithwifi)
 - **Fonte canonica:** [Fonte canonica](https://x.com/noorwithwifi/status/2074956913075491029)
 - **Pubblicato:** 8 luglio 2026
 - **Lingua del prompt:** en
@@ -208,7 +208,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 #### Elementi di prova
 
-- **Creator:** [@AIReelofficial](https://x.com/AIReelofficial)
+- **Autore:** [@AIReelofficial](https://x.com/AIReelofficial)
 - **Fonte canonica:** [Fonte canonica](https://x.com/AIReelofficial/status/2077729460644872389)
 - **Pubblicato:** 16 luglio 2026
 - **Lingua del prompt:** en
@@ -235,7 +235,7 @@ Assegna un ruolo a ogni riferimento - Indica quale input controlla identità, co
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Blocking e percorsi camera nei piani sequenza (1)
+### Blocking e percorsi camera nei piani sequenza (2)
 
 Brief per le inquadrature costruiti su composizione, percorso della camera, blocking, ritmo, rivelazioni e transizioni.
 
@@ -265,9 +265,103 @@ Cyberpunk hacker robot working in front of many monitors.
 
 ##### Elementi di prova
 
-- **Creator:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+- **Autore:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **Fonte canonica:** [Fonte canonica](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **Pubblicato:** 14 luglio 2026
+- **Lingua del prompt:** en
+
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: Quattro stagioni in un unico piano sequenza
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Perché il workflow è importante
+
+Ricostruzione editoriale di una demo pubblica per testare trenta secondi di continuità ambientale.
+
+##### Prompt tradotto
+
+```
+Crea un unico movimento di camera continuo di 30 secondi nello stesso paesaggio mentre la primavera diventa estate, l'estate autunno e l'autunno inverno. Mantieni identici percorso, punti di riferimento e velocità; fai evolvere naturalmente vegetazione, meteo, luce, terreno, suono e attività umana. Nascondi ogni passaggio dietro occlusioni, particelle o una rotazione motivata. Nessun taglio, salto geometrico o cambio d'identità. Chiudi sullo stesso asse compositivo iniziale.
+```
+
+<details>
+<summary>Prompt della fonte originale</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="Quattro stagioni in un unico piano sequenza - Motion preview"></a>
+
+*Fai clic sull'anteprima per aprire il video* · **[▶ Guarda il video →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### Elementi di prova
+
+- **Autore:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **Fonte canonica:** [Fonte canonica](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **Pubblicato:** 29 giugno 2026
+- **Lingua del prompt:** en
+
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### Tempismo di dialogo, Foley e musica (1)
+
+Prompt guidati dalla performance, in cui parlato, recitazione, atmosfera, musica o suono sincronizzato sostengono la scena.
+
+<a id="prompt-4"></a>
+
+#### #3: Trailer oscuro dell'arrivo alieno
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Perché il workflow è importante
+
+Prompt essenziale di trenta secondi per verificare mistero crescente, scala globale e ritmo cinematografico coerente.
+
+##### Prompt tradotto
+
+```
+Un trailer cinematografico, oscuro e misterioso per un film sull'arrivo degli alieni sulla Terra.
+```
+
+<details>
+<summary>Prompt della fonte originale</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="Trailer oscuro dell'arrivo alieno - Motion preview"></a>
+
+*Fai clic sull'anteprima per aprire il video* · **[▶ Guarda il video →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### Elementi di prova
+
+- **Autore:** [@synthwavedd](https://x.com/synthwavedd)
+- **Fonte canonica:** [Fonte canonica](https://x.com/synthwavedd/status/2075206446879265049)
+- **Pubblicato:** 9 luglio 2026
 - **Lingua del prompt:** en
 
 **[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 ## Crediti dei creator
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 **[Invia un caso verificato](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-07-21T10:28:16.939Z</sub>
+<sub>Generato dai dati locali versionati il 2026-07-21T13:47:08.799Z</sub>
 
 </div>

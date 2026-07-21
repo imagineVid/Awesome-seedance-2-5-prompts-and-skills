@@ -1,37 +1,170 @@
 {
   "pt": {
-    "1": { "title": "Passeio de bicicleta na hora dourada por ruas tranquilas", "description": "Um briefing compacto que mantém a ciclista e o suave acompanhamento de câmara legíveis sob luz natural num bairro quotidiano." },
-    "2": { "title": "Robot hacker cyberpunk num plano contínuo de trinta segundos", "description": "Um prompt deliberadamente mínimo para estudar como um sujeito, o posto de trabalho e uma ação contínua se expandem num plano longo." },
-    "3": { "title": "Combate industrial com duas referências e impactos cronometrados", "description": "Um briefing de ação denso que coordena dois lutadores, marcação, mudanças de câmara, câmara lenta, impactos e reações do ambiente durante catorze segundos." }
+    "1": {
+      "title": "Passeio de bicicleta na hora dourada por ruas tranquilas",
+      "description": "Um briefing compacto que mantém a ciclista e o suave acompanhamento de câmara legíveis sob luz natural num bairro quotidiano."
+    },
+    "2": {
+      "title": "Robot hacker cyberpunk num plano contínuo de trinta segundos",
+      "description": "Um prompt deliberadamente mínimo para estudar como um sujeito, o posto de trabalho e uma ação contínua se expandem num plano longo."
+    },
+    "3": {
+      "title": "Combate industrial com duas referências e impactos cronometrados",
+      "description": "Um briefing de ação denso que coordena dois lutadores, marcação, mudanças de câmara, câmara lenta, impactos e reações do ambiente durante catorze segundos."
+    },
+    "4": {
+      "title": "Trailer sombrio de chegada alienígena",
+      "description": "Prompt curto de trinta segundos para testar mistério crescente, escala global e ritmo cinematográfico coerente.",
+      "content": "Um trailer cinematográfico, sombrio e misterioso para um filme sobre alienígenas a chegar à Terra."
+    },
+    "5": {
+      "title": "Quatro estações num plano contínuo",
+      "description": "Reconstrução editorial de uma demonstração pública para testar continuidade ambiental durante trinta segundos.",
+      "content": "Crie um único movimento de câmara contínuo de 30 segundos pela mesma paisagem enquanto a primavera passa ao verão, o verão ao outono e o outono ao inverno. Preserve o percurso, os marcos e a velocidade da câmara; faça evoluir naturalmente vegetação, clima, luz, solo, som e atividade humana. Oculte cada transição com primeiro plano, partículas ou uma rotação motivada. Sem cortes, saltos de geometria ou mudanças de identidade. Termine no mesmo eixo compositivo do início."
+    }
   },
   "it": {
-    "1": { "title": "Giro in bicicletta nell'ora dorata tra strade tranquille", "description": "Un brief compatto che mantiene leggibili la ciclista e il dolce movimento di camera nella luce naturale di un quartiere quotidiano." },
-    "2": { "title": "Robot hacker cyberpunk in un piano sequenza di trenta secondi", "description": "Un prompt volutamente minimale per studiare come soggetto, postazione e azione continua si sviluppano in una lunga ripresa." },
-    "3": { "title": "Scontro industriale con due riferimenti e impatti temporizzati", "description": "Un brief d'azione denso che coordina due combattenti, blocking, cambi camera, slow motion, impatti e reazioni ambientali per quattordici secondi." }
+    "1": {
+      "title": "Giro in bicicletta nell'ora dorata tra strade tranquille",
+      "description": "Un brief compatto che mantiene leggibili la ciclista e il dolce movimento di camera nella luce naturale di un quartiere quotidiano."
+    },
+    "2": {
+      "title": "Robot hacker cyberpunk in un piano sequenza di trenta secondi",
+      "description": "Un prompt volutamente minimale per studiare come soggetto, postazione e azione continua si sviluppano in una lunga ripresa."
+    },
+    "3": {
+      "title": "Scontro industriale con due riferimenti e impatti temporizzati",
+      "description": "Un brief d'azione denso che coordina due combattenti, blocking, cambi camera, slow motion, impatti e reazioni ambientali per quattordici secondi."
+    },
+    "4": {
+      "title": "Trailer oscuro dell'arrivo alieno",
+      "description": "Prompt essenziale di trenta secondi per verificare mistero crescente, scala globale e ritmo cinematografico coerente.",
+      "content": "Un trailer cinematografico, oscuro e misterioso per un film sull'arrivo degli alieni sulla Terra."
+    },
+    "5": {
+      "title": "Quattro stagioni in un unico piano sequenza",
+      "description": "Ricostruzione editoriale di una demo pubblica per testare trenta secondi di continuità ambientale.",
+      "content": "Crea un unico movimento di camera continuo di 30 secondi nello stesso paesaggio mentre la primavera diventa estate, l'estate autunno e l'autunno inverno. Mantieni identici percorso, punti di riferimento e velocità; fai evolvere naturalmente vegetazione, meteo, luce, terreno, suono e attività umana. Nascondi ogni passaggio dietro occlusioni, particelle o una rotazione motivata. Nessun taglio, salto geometrico o cambio d'identità. Chiudi sullo stesso asse compositivo iniziale."
+    }
   },
   "ar": {
-    "1": { "title": "جولة دراجة وقت الغروب في شوارع هادئة", "description": "موجز مدمج يحافظ على وضوح الراكبة وحركة التتبع الهادئة ضمن ضوء طبيعي وحي يومي." },
-    "2": { "title": "لقطة متصلة لثلاثين ثانية لروبوت مخترق سايبربانك", "description": "مطالبة موجزة عمدًا لدراسة كيفية توسع شخصية واحدة ومحطة عمل وفعل مستمر إلى لقطة طويلة." },
-    "3": { "title": "قتال صناعي بمرجعين وتأثيرات مضبوطة زمنيًا", "description": "موجز حركة كثيف ينسق مقاتلين والتوزيع وتغييرات الكاميرا والتصوير البطيء والاصطدامات واستجابة البيئة على مدى أربع عشرة ثانية." }
+    "1": {
+      "title": "جولة دراجة وقت الغروب في شوارع هادئة",
+      "description": "موجز مدمج يحافظ على وضوح الراكبة وحركة التتبع الهادئة ضمن ضوء طبيعي وحي يومي."
+    },
+    "2": {
+      "title": "لقطة متصلة لثلاثين ثانية لروبوت مخترق سايبربانك",
+      "description": "مطالبة موجزة عمدًا لدراسة كيفية توسع شخصية واحدة ومحطة عمل وفعل مستمر إلى لقطة طويلة."
+    },
+    "3": {
+      "title": "قتال صناعي بمرجعين وتأثيرات مضبوطة زمنيًا",
+      "description": "موجز حركة كثيف ينسق مقاتلين والتوزيع وتغييرات الكاميرا والتصوير البطيء والاصطدامات واستجابة البيئة على مدى أربع عشرة ثانية."
+    },
+    "4": {
+      "title": "إعلان مظلم لوصول الكائنات الفضائية",
+      "description": "موجه قصير لثلاثين ثانية يختبر تصاعد الغموض واتساع الحدث والإيقاع السينمائي المتماسك.",
+      "content": "إعلان سينمائي مظلم وغامض لفيلم عن وصول كائنات فضائية إلى الأرض."
+    },
+    "5": {
+      "title": "الفصول الأربعة في لقطة متصلة",
+      "description": "إعادة بناء تحريرية لعرض عام تختبر استمرارية البيئة طوال ثلاثين ثانية.",
+      "content": "أنشئ حركة كاميرا واحدة متصلة مدتها 30 ثانية عبر المشهد نفسه، يتحول فيها الربيع إلى صيف ثم الخريف فالشتاء. حافظ على المسار والمعالم وسرعة الكاميرا، ودع النبات والطقس والضوء والأرض والصوت والنشاط البشري تتغير طبيعيا. أخف كل انتقال خلف عنصر أمامي أو جسيمات أو دوران مبرر. بلا قطع أو قفزات هندسية أو تبدل في الهوية. اختم على محور التكوين نفسه الذي بدأت منه."
+    }
   },
   "nl": {
-    "1": { "title": "Fietstocht tijdens het gouden uur door rustige straten", "description": "Een compacte briefing die één fietser en een vloeiende volgbeweging helder houdt in natuurlijk licht en een alledaagse buurt." },
-    "2": { "title": "Cyberpunk-hackerrobot in een one-take van dertig seconden", "description": "Een bewust minimale prompt om te bestuderen hoe één onderwerp, werkplek en doorlopende handeling uitgroeien tot een lange take." },
-    "3": { "title": "Industrieel gevecht met twee referenties en getimede impacts", "description": "Een dichte actiebriefing die twee vechters, blocking, camerawissels, slow motion, impacts en omgevingsreacties over veertien seconden coördineert." }
+    "1": {
+      "title": "Fietstocht tijdens het gouden uur door rustige straten",
+      "description": "Een compacte briefing die één fietser en een vloeiende volgbeweging helder houdt in natuurlijk licht en een alledaagse buurt."
+    },
+    "2": {
+      "title": "Cyberpunk-hackerrobot in een one-take van dertig seconden",
+      "description": "Een bewust minimale prompt om te bestuderen hoe één onderwerp, werkplek en doorlopende handeling uitgroeien tot een lange take."
+    },
+    "3": {
+      "title": "Industrieel gevecht met twee referenties en getimede impacts",
+      "description": "Een dichte actiebriefing die twee vechters, blocking, camerawissels, slow motion, impacts en omgevingsreacties over veertien seconden coördineert."
+    },
+    "4": {
+      "title": "Duistere trailer over een buitenaardse aankomst",
+      "description": "Korte prompt van dertig seconden voor oplopend mysterie, wereldwijde schaal en samenhangend filmritme.",
+      "content": "Een filmische, duistere en mysterieuze trailer voor een film over buitenaardse wezens die op aarde aankomen."
+    },
+    "5": {
+      "title": "Vier seizoenen in één doorlopende opname",
+      "description": "Redactionele reconstructie van een openbare demo om dertig seconden omgevingscontinuïteit te testen.",
+      "content": "Maak één ononderbroken camerabeweging van 30 seconden door hetzelfde landschap terwijl lente zomer wordt, zomer herfst en herfst winter. Behoud route, herkenningspunten en snelheid; laat begroeiing, weer, licht, bodem, geluid en menselijke activiteit natuurlijk veranderen. Verberg overgangen achter voorgrond, deeltjes of een gemotiveerde draai. Geen cuts, geometriesprongen of identiteitswissels. Eindig op dezelfde compositie-as als het begin."
+    }
   },
   "ru": {
-    "1": { "title": "Велопрогулка в золотой час по тихим улицам", "description": "Компактный бриф сохраняет ясность героини и плавного сопровождения камеры в естественном свете обычного городского района." },
-    "2": { "title": "Тридцатисекундный непрерывный план с киберпанк-роботом", "description": "Намеренно минимальный промпт для изучения того, как один герой, рабочее место и непрерывное действие раскрываются в длинном плане." },
-    "3": { "title": "Индустриальный бой с двумя референсами и точным таймингом", "description": "Плотный экшен-бриф координирует двух бойцов, мизансцену, смену камеры, замедление, удары и реакцию окружения в течение четырнадцати секунд." }
+    "1": {
+      "title": "Велопрогулка в золотой час по тихим улицам",
+      "description": "Компактный бриф сохраняет ясность героини и плавного сопровождения камеры в естественном свете обычного городского района."
+    },
+    "2": {
+      "title": "Тридцатисекундный непрерывный план с киберпанк-роботом",
+      "description": "Намеренно минимальный промпт для изучения того, как один герой, рабочее место и непрерывное действие раскрываются в длинном плане."
+    },
+    "3": {
+      "title": "Индустриальный бой с двумя референсами и точным таймингом",
+      "description": "Плотный экшен-бриф координирует двух бойцов, мизансцену, смену камеры, замедление, удары и реакцию окружения в течение четырнадцати секунд."
+    },
+    "4": {
+      "title": "Мрачный трейлер о прибытии пришельцев",
+      "description": "Короткий 30-секундный запрос для проверки нарастающей тайны, мирового масштаба и связного киноритма.",
+      "content": "Кинематографический, мрачный и загадочный трейлер фильма о прибытии пришельцев на Землю."
+    },
+    "5": {
+      "title": "Четыре сезона одним непрерывным планом",
+      "description": "Редакционная реконструкция публичной демонстрации для проверки 30-секундной непрерывности среды.",
+      "content": "Создайте единое непрерывное 30-секундное движение камеры по одному пейзажу: весна сменяется летом, лето осенью, осень зимой. Сохраните маршрут, ориентиры и скорость камеры; естественно меняйте растительность, погоду, свет, почву, звук и человеческую активность. Скройте переходы за передним планом, частицами или мотивированным поворотом. Без монтажных склеек, скачков геометрии и смены личности. Завершите на той же композиционной оси, что и начало."
+    }
   },
   "tr": {
-    "1": { "title": "Sakin sokaklarda altın saat bisiklet yolculuğu", "description": "Doğal ışıklı gündelik bir mahallede tek bisikletçiyi ve yumuşak takip hareketini anlaşılır tutan kısa bir çekim brifi." },
-    "2": { "title": "Siberpunk hacker robotla otuz saniyelik tek çekim", "description": "Tek bir özne, çalışma alanı ve kesintisiz eylemin uzun çekime nasıl yayıldığını incelemek için bilinçli olarak kısa tutulmuş bir prompt." },
-    "3": { "title": "İki referanslı ve zaman kodlu endüstriyel dövüş", "description": "İki dövüşçüyü, bloklamayı, kamera değişimlerini, ağır çekimi, darbeleri ve çevre tepkilerini on dört saniyede koordine eden yoğun bir aksiyon brifi." }
+    "1": {
+      "title": "Sakin sokaklarda altın saat bisiklet yolculuğu",
+      "description": "Doğal ışıklı gündelik bir mahallede tek bisikletçiyi ve yumuşak takip hareketini anlaşılır tutan kısa bir çekim brifi."
+    },
+    "2": {
+      "title": "Siberpunk hacker robotla otuz saniyelik tek çekim",
+      "description": "Tek bir özne, çalışma alanı ve kesintisiz eylemin uzun çekime nasıl yayıldığını incelemek için bilinçli olarak kısa tutulmuş bir prompt."
+    },
+    "3": {
+      "title": "İki referanslı ve zaman kodlu endüstriyel dövüş",
+      "description": "İki dövüşçüyü, bloklamayı, kamera değişimlerini, ağır çekimi, darbeleri ve çevre tepkilerini on dört saniyede koordine eden yoğun bir aksiyon brifi."
+    },
+    "4": {
+      "title": "Uzaylı gelişini anlatan karanlık fragman",
+      "description": "Artan gizemi, küresel ölçeği ve tutarlı sinematik ritmi sınayan kısa otuz saniyelik istem.",
+      "content": "Uzaylıların Dünya'ya gelişini anlatan sinematik, karanlık ve gizemli bir film fragmanı."
+    },
+    "5": {
+      "title": "Tek kesintisiz planda dört mevsim",
+      "description": "Otuz saniyelik çevre sürekliliğini sınamak için halka açık demodan editoryal olarak yeniden kurulan istem.",
+      "content": "Aynı manzara boyunca kesintisiz 30 saniyelik bir kamera hareketi oluştur; ilkbahar yaza, yaz sonbahara, sonbahar kışa dönüşsün. Kamera yolu, işaret noktaları ve hız aynen kalsın; bitki örtüsü, hava, ışık, zemin, ses ve insan etkinliği doğal biçimde değişsin. Geçişleri ön plan örtüsü, parçacıklar veya gerekçeli dönüşlerle gizle. Kesme, geometri sıçraması ve kimlik değişimi olmasın. Başlangıçtaki aynı kompozisyon ekseninde bitir."
+    }
   },
   "pl": {
-    "1": { "title": "Rowerowa przejażdżka w złotej godzinie po cichych ulicach", "description": "Zwięzły brief utrzymujący czytelność rowerzystki i płynnego ruchu kamery w naturalnym świetle zwykłej dzielnicy." },
-    "2": { "title": "Cyberpunkowy robot-haker w trzydziestosekundowym ujęciu", "description": "Celowo minimalny prompt do analizy, jak jeden bohater, stanowisko pracy i ciągła akcja rozwijają się w długim ujęciu." },
-    "3": { "title": "Industrialna walka z dwiema referencjami i czasowanymi uderzeniami", "description": "Gęsty brief akcji koordynujący dwóch zawodników, blocking, zmiany kamery, zwolnienia, uderzenia i reakcje otoczenia przez czternaście sekund." }
+    "1": {
+      "title": "Rowerowa przejażdżka w złotej godzinie po cichych ulicach",
+      "description": "Zwięzły brief utrzymujący czytelność rowerzystki i płynnego ruchu kamery w naturalnym świetle zwykłej dzielnicy."
+    },
+    "2": {
+      "title": "Cyberpunkowy robot-haker w trzydziestosekundowym ujęciu",
+      "description": "Celowo minimalny prompt do analizy, jak jeden bohater, stanowisko pracy i ciągła akcja rozwijają się w długim ujęciu."
+    },
+    "3": {
+      "title": "Industrialna walka z dwiema referencjami i czasowanymi uderzeniami",
+      "description": "Gęsty brief akcji koordynujący dwóch zawodników, blocking, zmiany kamery, zwolnienia, uderzenia i reakcje otoczenia przez czternaście sekund."
+    },
+    "4": {
+      "title": "Mroczny zwiastun przybycia obcych",
+      "description": "Krótki, trzydziestosekundowy prompt sprawdzający narastającą tajemnicę, globalną skalę i spójne tempo filmowe.",
+      "content": "Filmowy, mroczny i tajemniczy zwiastun opowieści o przybyciu obcych na Ziemię."
+    },
+    "5": {
+      "title": "Cztery pory roku w jednym ciągłym ujęciu",
+      "description": "Redakcyjna rekonstrukcja publicznego pokazu do testowania trzydziestu sekund ciągłości środowiska.",
+      "content": "Stwórz jedno nieprzerwane, 30-sekundowe przejście kamery przez ten sam krajobraz: wiosna zmienia się w lato, lato w jesień, a jesień w zimę. Zachowaj trasę, położenie punktów orientacyjnych i prędkość; naturalnie zmieniaj roślinność, pogodę, światło, podłoże, dźwięk i aktywność ludzi. Ukryj przejścia za pierwszym planem, cząstkami lub uzasadnionym obrotem. Bez cięć, skoków geometrii i zmian tożsamości. Zakończ na tej samej osi kompozycji co początek."
+    }
   }
 }

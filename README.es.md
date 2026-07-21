@@ -98,9 +98,9 @@ Empieza con una acción y una idea de cámara. Añade restricciones de tiempo, a
 
 | Campo de la colección | Valor actual |
 |--------|-------|
-| Casos verificados | **3** |
+| Casos verificados | **5** |
 | Selección editorial | **2** |
-| Generado | **martes, 21 de julio de 2026, 10:28:16 UTC** |
+| Generado | **martes, 21 de julio de 2026, 13:47:08 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Asigna una función a cada referencia - Indica qué entrada controla identidad, 
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Puesta en escena y cámara en planos secuencia (1)
+### Puesta en escena y cámara en planos secuencia (2)
 
 Briefs de plano basados en encuadre, recorrido de cámara, blocking, ritmo, revelaciones y transiciones.
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **Creador:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **Fuente canónica:** [Fuente canónica](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **Publicado:** 14 de julio de 2026
+- **Idioma del prompt:** en
+
+**[Crea con esta dirección · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: Cuatro estaciones en una toma continua
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Por qué importa este flujo de trabajo
+
+Reconstrucción editorial de una demostración pública para evaluar continuidad ambiental durante treinta segundos.
+
+##### Prompt localizado
+
+```
+Crea un único movimiento de cámara continuo de 30 segundos por el mismo paisaje mientras la primavera pasa al verano, el verano al otoño y el otoño al invierno. Conserva exactamente el recorrido, los hitos y la velocidad de cámara; cambia de forma natural la vegetación, el clima, la luz, el suelo, el sonido y la actividad humana. Oculta cada transición tras una oclusión, partículas o un giro motivado. Sin cortes, saltos geométricos ni cambios de identidad. Termina sobre el mismo eje compositivo del inicio.
+```
+
+<details>
+<summary>Prompt original de la fuente</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="Cuatro estaciones en una toma continua - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### Evidencias
+
+- **Creador:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **Fuente canónica:** [Fuente canónica](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **Publicado:** 29 de junio de 2026
+- **Idioma del prompt:** en
+
+**[Crea con esta dirección · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### Ritmo de diálogo, Foley y música (1)
+
+Prompts guiados por la interpretación en los que el habla, la actuación, el ambiente, la música o el sonido sincronizado sostienen la escena.
+
+<a id="prompt-4"></a>
+
+#### #3: Tráiler oscuro de llegada alienígena
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Por qué importa este flujo de trabajo
+
+Un prompt breve de treinta segundos para probar misterio creciente, escala global y ritmo cinematográfico coherente.
+
+##### Prompt localizado
+
+```
+Un tráiler cinematográfico, oscuro y misterioso para una película sobre la llegada de extraterrestres a la Tierra.
+```
+
+<details>
+<summary>Prompt original de la fuente</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="Tráiler oscuro de llegada alienígena - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### Evidencias
+
+- **Creador:** [@synthwavedd](https://x.com/synthwavedd)
+- **Fuente canónica:** [Fuente canónica](https://x.com/synthwavedd/status/2075206446879265049)
+- **Publicado:** 9 de julio de 2026
 - **Idioma del prompt:** en
 
 **[Crea con esta dirección · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 ## Créditos de los creadores
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-07-21T10:28:16.915Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-07-21T13:47:08.796Z</sub>
 
 </div>

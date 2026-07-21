@@ -98,9 +98,9 @@
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **3** |
+| Проверенные примеры | **5** |
 | Редакционный выбор | **2** |
-| Сгенерировано | **вторник, 21 июля 2026 г. в 10:28:16 UTC** |
+| Сгенерировано | **вторник, 21 июля 2026 г. в 13:47:08 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Мизансцена и маршруты камеры в длинных планах (1)
+### Мизансцена и маршруты камеры в длинных планах (2)
 
 Брифы кадров с композицией, маршрутом камеры, мизансценой, темпом, раскрытиями и переходами.
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **Автор:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **Канонический источник:** [Канонический источник](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **Опубликовано:** 14 июля 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: Четыре сезона одним непрерывным планом
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Редакционная реконструкция публичной демонстрации для проверки 30-секундной непрерывности среды.
+
+##### Локализованный промпт
+
+```
+Создайте единое непрерывное 30-секундное движение камеры по одному пейзажу: весна сменяется летом, лето осенью, осень зимой. Сохраните маршрут, ориентиры и скорость камеры; естественно меняйте растительность, погоду, свет, почву, звук и человеческую активность. Скройте переходы за передним планом, частицами или мотивированным поворотом. Без монтажных склеек, скачков геометрии и смены личности. Завершите на той же композиционной оси, что и начало.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="Четыре сезона одним непрерывным планом - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **Канонический источник:** [Канонический источник](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **Опубликовано:** 29 июня 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### Тайминг диалога, шумов и музыки (1)
+
+Промпты на основе исполнения, где речь, актёрская игра, атмосфера, музыка или синхронный звук несут сцену.
+
+<a id="prompt-4"></a>
+
+#### #3: Мрачный трейлер о прибытии пришельцев
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Короткий 30-секундный запрос для проверки нарастающей тайны, мирового масштаба и связного киноритма.
+
+##### Локализованный промпт
+
+```
+Кинематографический, мрачный и загадочный трейлер фильма о прибытии пришельцев на Землю.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="Мрачный трейлер о прибытии пришельцев - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [@synthwavedd](https://x.com/synthwavedd)
+- **Канонический источник:** [Канонический источник](https://x.com/synthwavedd/status/2075206446879265049)
+- **Опубликовано:** 9 июля 2026 г.
 - **Язык промпта:** en
 
 **[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ Cyberpunk hacker robot working in front of many monitors.
 ## Благодарности авторам
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ Cyberpunk hacker robot working in front of many monitors.
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-21T10:28:16.999Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-21T13:47:08.809Z</sub>
 
 </div>

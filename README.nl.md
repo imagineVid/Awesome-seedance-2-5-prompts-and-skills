@@ -98,9 +98,9 @@ Begin met één actie en één camera-idee. Voeg timing, audio- en behoudsbeperk
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **3** |
+| Geverifieerde voorbeelden | **5** |
 | Redactionele keuze | **2** |
-| Gegenereerd | **dinsdag 21 juli 2026 om 10:28:16 UTC** |
+| Gegenereerd | **dinsdag 21 juli 2026 om 13:47:08 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Geef elke referentie een taak - Bepaal welke input identiteit, compositie, beweg
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Blocking en camerapaden in lange takes (1)
+### Blocking en camerapaden in lange takes (2)
 
 Shotbriefings rond kadrering, camerapad, blocking, tempo, onthullingen en overgangen.
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **Maker:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **Canonieke bron:** [Canonieke bron](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **Gepubliceerd:** 14 juli 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: Vier seizoenen in één doorlopende opname
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Redactionele reconstructie van een openbare demo om dertig seconden omgevingscontinuïteit te testen.
+
+##### Gelokaliseerde prompt
+
+```
+Maak één ononderbroken camerabeweging van 30 seconden door hetzelfde landschap terwijl lente zomer wordt, zomer herfst en herfst winter. Behoud route, herkenningspunten en snelheid; laat begroeiing, weer, licht, bodem, geluid en menselijke activiteit natuurlijk veranderen. Verberg overgangen achter voorgrond, deeltjes of een gemotiveerde draai. Geen cuts, geometriesprongen of identiteitswissels. Eindig op dezelfde compositie-as als het begin.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="Vier seizoenen in één doorlopende opname - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **Canonieke bron:** [Canonieke bron](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **Gepubliceerd:** 29 juni 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### Timing van dialoog, Foley en muziek (1)
+
+Performancegerichte prompts waarin spraak, acteren, ambiance, muziek of gesynchroniseerd geluid de scène dragen.
+
+<a id="prompt-4"></a>
+
+#### #3: Duistere trailer over een buitenaardse aankomst
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Korte prompt van dertig seconden voor oplopend mysterie, wereldwijde schaal en samenhangend filmritme.
+
+##### Gelokaliseerde prompt
+
+```
+Een filmische, duistere en mysterieuze trailer voor een film over buitenaardse wezens die op aarde aankomen.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="Duistere trailer over een buitenaardse aankomst - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [@synthwavedd](https://x.com/synthwavedd)
+- **Canonieke bron:** [Canonieke bron](https://x.com/synthwavedd/status/2075206446879265049)
+- **Gepubliceerd:** 9 juli 2026
 - **Prompttaal:** en
 
 **[Maak met deze regie · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 ## Credits voor makers
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-21T10:28:16.998Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-21T13:47:08.808Z</sub>
 
 </div>

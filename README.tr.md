@@ -98,9 +98,9 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **3** |
+| Doğrulanmış örnekler | **5** |
 | Editör seçimi | **2** |
-| Oluşturulma | **21 Temmuz 2026 Salı 10:28:17 UTC** |
+| Oluşturulma | **21 Temmuz 2026 Salı 13:47:08 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Her referansa bir görev verin - Hangi girdinin kimliği, kompozisyonu, hareketi
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Uzun çekim bloklama ve kamera yolları (1)
+### Uzun çekim bloklama ve kamera yolları (2)
 
 Kadraj, kamera yolu, blocking, tempo, açığa çıkarmalar ve geçişler etrafında kurulan çekim brifleri.
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **Üretici:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **Kanonik kaynak:** [Kanonik kaynak](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **Yayımlandı:** 14 Temmuz 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: Tek kesintisiz planda dört mevsim
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+Otuz saniyelik çevre sürekliliğini sınamak için halka açık demodan editoryal olarak yeniden kurulan istem.
+
+##### Yerelleştirilmiş prompt
+
+```
+Aynı manzara boyunca kesintisiz 30 saniyelik bir kamera hareketi oluştur; ilkbahar yaza, yaz sonbahara, sonbahar kışa dönüşsün. Kamera yolu, işaret noktaları ve hız aynen kalsın; bitki örtüsü, hava, ışık, zemin, ses ve insan etkinliği doğal biçimde değişsin. Geçişleri ön plan örtüsü, parçacıklar veya gerekçeli dönüşlerle gizle. Kesme, geometri sıçraması ve kimlik değişimi olmasın. Başlangıçtaki aynı kompozisyon ekseninde bitir.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="Tek kesintisiz planda dört mevsim - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **Yayımlandı:** 29 Haziran 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### Diyalog, Foley ve müzik zamanlaması (1)
+
+Konuşma, oyunculuk, ambiyans, müzik veya senkron sesin sahneyi taşıdığı performans odaklı promptlar.
+
+<a id="prompt-4"></a>
+
+#### #3: Uzaylı gelişini anlatan karanlık fragman
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+Artan gizemi, küresel ölçeği ve tutarlı sinematik ritmi sınayan kısa otuz saniyelik istem.
+
+##### Yerelleştirilmiş prompt
+
+```
+Uzaylıların Dünya'ya gelişini anlatan sinematik, karanlık ve gizemli bir film fragmanı.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="Uzaylı gelişini anlatan karanlık fragman - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [@synthwavedd](https://x.com/synthwavedd)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/synthwavedd/status/2075206446879265049)
+- **Yayımlandı:** 9 Temmuz 2026
 - **Prompt dili:** en
 
 **[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-21T10:28:17.010Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-21T13:47:08.810Z</sub>
 
 </div>

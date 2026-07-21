@@ -98,9 +98,9 @@
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **3** |
+| أمثلة موثّقة | **5** |
 | اختيار تحريري | **2** |
-| تاريخ التوليد | **الثلاثاء، 21 يوليو 2026 في 10:28:16 ص UTC** |
+| تاريخ التوليد | **الثلاثاء، 21 يوليو 2026 في 1:47:08 م UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### توزيع الحركة ومسارات الكاميرا في اللقطات الطويلة (1)
+### توزيع الحركة ومسارات الكاميرا في اللقطات الطويلة (2)
 
 موجزات لقطات تتمحور حول التأطير ومسار الكاميرا والتوزيع والإيقاع والكشف والانتقالات.
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **المبدع:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **المصدر الأصلي:** [المصدر الأصلي](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **تاريخ النشر:** 14 يوليو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: الفصول الأربعة في لقطة متصلة
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+إعادة بناء تحريرية لعرض عام تختبر استمرارية البيئة طوال ثلاثين ثانية.
+
+##### المطالبة المترجمة
+
+```
+أنشئ حركة كاميرا واحدة متصلة مدتها 30 ثانية عبر المشهد نفسه، يتحول فيها الربيع إلى صيف ثم الخريف فالشتاء. حافظ على المسار والمعالم وسرعة الكاميرا، ودع النبات والطقس والضوء والأرض والصوت والنشاط البشري تتغير طبيعيا. أخف كل انتقال خلف عنصر أمامي أو جسيمات أو دوران مبرر. بلا قطع أو قفزات هندسية أو تبدل في الهوية. اختم على محور التكوين نفسه الذي بدأت منه.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="الفصول الأربعة في لقطة متصلة - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **تاريخ النشر:** 29 يونيو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### توقيت الحوار والمؤثرات والموسيقى (1)
+
+مطالبات يقود فيها الكلام أو التمثيل أو الأجواء أو الموسيقى أو الصوت المتزامن المشهد.
+
+<a id="prompt-4"></a>
+
+#### #3: إعلان مظلم لوصول الكائنات الفضائية
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+موجه قصير لثلاثين ثانية يختبر تصاعد الغموض واتساع الحدث والإيقاع السينمائي المتماسك.
+
+##### المطالبة المترجمة
+
+```
+إعلان سينمائي مظلم وغامض لفيلم عن وصول كائنات فضائية إلى الأرض.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="إعلان مظلم لوصول الكائنات الفضائية - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [@synthwavedd](https://x.com/synthwavedd)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/synthwavedd/status/2075206446879265049)
+- **تاريخ النشر:** 9 يوليو 2026
 - **لغة المطالبة:** en
 
 **[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ Cyberpunk hacker robot working in front of many monitors.
 ## اعتمادات المبدعين
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ Cyberpunk hacker robot working in front of many monitors.
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-21T10:28:16.965Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-21T13:47:08.803Z</sub>
 
 </div>

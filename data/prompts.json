@@ -142,5 +142,111 @@
         }
       ]
     }
+  },
+  {
+    "id": 4,
+    "model": "seedance-2.5",
+    "title": {
+      "en": "Dark alien-arrival trailer"
+    },
+    "description": {
+      "en": "A deliberately short thirty-second trailer prompt that tests whether the model can infer escalating mystery, worldwide scale, and coherent cinematic pacing."
+    },
+    "content": {
+      "en": "A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth."
+    },
+    "sourceLink": "https://x.com/synthwavedd/status/2075206446879265049",
+    "sourcePublishedAt": "2026-07-09T13:12:27.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg"
+    },
+    "author": {
+      "name": "@synthwavedd",
+      "link": "https://x.com/synthwavedd"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 4,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075206446879265049",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 23,
+      "replyCount": 16,
+      "likeCount": 465,
+      "quoteCount": 6,
+      "viewCount": 27640,
+      "bookmarkCount": 120,
+      "model_evidence": "seedance-2.5",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 73,
+          "title": "Dialogue, Foley & Music Timing",
+          "slug": "dialogue-foley-music-timing"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "model": "seedance-2.5",
+    "title": {
+      "en": "Four-season transformation in one continuous take"
+    },
+    "description": {
+      "en": "An editorial reconstruction of a public Seedance 2.5 showcase concept, designed to test thirty-second environmental continuity through four seasonal states."
+    },
+    "content": {
+      "en": "Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning."
+    },
+    "sourceLink": "https://x.com/JSFILMZ0412/status/2071692606573277428",
+    "sourcePublishedAt": "2026-06-29T20:29:42.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg"
+    },
+    "author": {
+      "name": "@JSFILMZ0412",
+      "link": "https://x.com/JSFILMZ0412"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 5,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2071692606573277428",
+      "prompt_source": "rewritten_from_public_demo_description",
+      "retweetCount": 9,
+      "replyCount": 20,
+      "likeCount": 111,
+      "quoteCount": 3,
+      "viewCount": 27141,
+      "bookmarkCount": 60,
+      "model_evidence": "seedance-2.5",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 72,
+          "title": "Long-Take Blocking & Camera Paths",
+          "slug": "long-take-blocking-camera-paths"
+        }
+      ]
+    }
   }
 ]

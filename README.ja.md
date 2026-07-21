@@ -98,9 +98,9 @@
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **3** |
+| 検証済みケース | **5** |
 | 編集部のおすすめ | **2** |
-| 生成日時 | **2026年7月21日火曜日 10:28:16 UTC** |
+| 生成日時 | **2026年7月21日火曜日 13:47:08 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### 長回しのブロッキングとカメラ経路 (1)
+### 長回しのブロッキングとカメラ経路 (2)
 
 フレーミング、カメラパス、ブロッキング、テンポ、見せ場、トランジションを軸にしたショットブリーフ。
 
@@ -268,6 +268,100 @@ Cyberpunk hacker robot working in front of many monitors.
 - **クリエイター:** [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 - **正規の出典:** [正規の出典](https://x.com/thedoomguy_ai/status/2077113772959740310)
 - **公開日:** 2026年7月14日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-5"></a>
+
+#### #2: ワンカットで移ろう四季
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+公開デモの内容を編集的に再構成し、30秒間の環境連続性を検証するプロンプト。
+
+##### ローカライズ済みプロンプト
+
+```
+同じ風景を進む30秒の途切れないカメラ移動で、春から夏、夏から秋、秋から冬へ変化させる。経路、ランドマーク、速度は完全に維持し、植生、天候、光、地面、環境音、人の活動だけを自然に移ろわせる。前景の遮蔽、舞う粒子、動機のある旋回で各変化を隠す。カット、形状の跳躍、人物の同一性変化は禁止。冒頭と同じ構図軸で終える。
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Create one uninterrupted 30-second camera move through the same landscape as spring transforms into summer, summer into autumn, and autumn into winter. Preserve the exact path, landmark positions, and camera speed while vegetation, weather, daylight, ground texture, ambient sound, and human activity evolve naturally with each season. Hide every transition inside foreground occlusion, drifting particles, or a motivated camera turn. No cuts, no geometry jumps, and no sudden identity changes. End from the same compositional axis established at the beginning.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2071689424891527168/img/O_QS365XrgEn-pOi.jpg" height="420" alt="ワンカットで移ろう四季 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2071689424891527168/vid/avc1/1920x1080/aPpOZyVnA973XFrL.mp4?tag=28)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [@JSFILMZ0412](https://x.com/JSFILMZ0412)
+- **正規の出典:** [正規の出典](https://x.com/JSFILMZ0412/status/2071692606573277428)
+- **公開日:** 2026年6月29日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="workflow-dialogue-foley-music-timing"></a>
+
+### 台詞・フォーリー・音楽のタイミング (1)
+
+台詞、演技、環境音、音楽、同期音がシーンを動かすパフォーマンス中心のプロンプト。
+
+<a id="prompt-4"></a>
+
+#### #3: 異星人到来を描くダークな予告編
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+30秒の短い指示で、深まる謎、世界規模の広がり、一貫した映画的テンポを試す。
+
+##### ローカライズ済みプロンプト
+
+```
+異星人が地球へ到来する映画の、シネマティックで暗く謎めいた予告編。
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+A cinematic, dark and mysterious trailer for a movie about aliens arriving on Earth.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg" height="420" alt="異星人到来を描くダークな予告編 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2075206120461709312/vid/avc1/1280x720/-Sd8GC06pfI6PfH2.mp4?tag=28)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [@synthwavedd](https://x.com/synthwavedd)
+- **正規の出典:** [正規の出典](https://x.com/synthwavedd/status/2075206446879265049)
+- **公開日:** 2026年7月9日
 - **プロンプト言語:** en
 
 **[この方向性で制作する · ImagineVid](https://imaginevid.io/seedance-2-0)**
@@ -311,9 +405,9 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (5)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@noorwithwifi](https://x.com/noorwithwifi) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
 
 </details>
 
@@ -333,6 +427,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-21T10:28:16.966Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-21T13:47:08.804Z</sub>
 
 </div>

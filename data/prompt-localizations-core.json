@@ -1,32 +1,146 @@
 {
   "es": {
-    "1": { "title": "Paseo en bicicleta al atardecer por calles tranquilas", "description": "Un brief compacto que mantiene legibles a la ciclista y el suave seguimiento de cámara bajo luz natural en un barrio cotidiano." },
-    "2": { "title": "Robot hacker ciberpunk en un plano secuencia de treinta segundos", "description": "Un prompt deliberadamente mínimo para estudiar cómo un sujeto, su puesto de trabajo y una acción sostenida se desarrollan en un plano largo." },
-    "3": { "title": "Combate industrial con dos referencias e impactos cronometrados", "description": "Un brief de acción con dos imágenes que coordina blocking, cambios de cámara, cámara lenta, impactos y reacciones del entorno durante catorce segundos." }
+    "1": {
+      "title": "Paseo en bicicleta al atardecer por calles tranquilas",
+      "description": "Un brief compacto que mantiene legibles a la ciclista y el suave seguimiento de cámara bajo luz natural en un barrio cotidiano."
+    },
+    "2": {
+      "title": "Robot hacker ciberpunk en un plano secuencia de treinta segundos",
+      "description": "Un prompt deliberadamente mínimo para estudiar cómo un sujeto, su puesto de trabajo y una acción sostenida se desarrollan en un plano largo."
+    },
+    "3": {
+      "title": "Combate industrial con dos referencias e impactos cronometrados",
+      "description": "Un brief de acción con dos imágenes que coordina blocking, cambios de cámara, cámara lenta, impactos y reacciones del entorno durante catorce segundos."
+    },
+    "4": {
+      "title": "Tráiler oscuro de llegada alienígena",
+      "description": "Un prompt breve de treinta segundos para probar misterio creciente, escala global y ritmo cinematográfico coherente.",
+      "content": "Un tráiler cinematográfico, oscuro y misterioso para una película sobre la llegada de extraterrestres a la Tierra."
+    },
+    "5": {
+      "title": "Cuatro estaciones en una toma continua",
+      "description": "Reconstrucción editorial de una demostración pública para evaluar continuidad ambiental durante treinta segundos.",
+      "content": "Crea un único movimiento de cámara continuo de 30 segundos por el mismo paisaje mientras la primavera pasa al verano, el verano al otoño y el otoño al invierno. Conserva exactamente el recorrido, los hitos y la velocidad de cámara; cambia de forma natural la vegetación, el clima, la luz, el suelo, el sonido y la actividad humana. Oculta cada transición tras una oclusión, partículas o un giro motivado. Sin cortes, saltos geométricos ni cambios de identidad. Termina sobre el mismo eje compositivo del inicio."
+    }
   },
   "de": {
-    "1": { "title": "Fahrradfahrt bei goldenem Licht durch ruhige Straßen", "description": "Ein kompakter Brief, der Fahrerin und sanfte Kamerafahrt bei natürlichem Licht in einer alltäglichen Nachbarschaft klar lesbar hält." },
-    "2": { "title": "Dreißigsekündiger One-Take mit einem Cyberpunk-Hackerroboter", "description": "Ein bewusst minimaler Prompt, an dem sich untersuchen lässt, wie Motiv, Arbeitsplatz und fortlaufende Handlung zu einer langen Einstellung wachsen." },
-    "3": { "title": "Industriekampf mit zwei Referenzen und getakteten Treffern", "description": "Ein dichter Action-Brief mit zwei Bildreferenzen, der Blocking, Kamerawechsel, Zeitlupe, Treffer und Umgebungsreaktionen über vierzehn Sekunden koordiniert." }
+    "1": {
+      "title": "Fahrradfahrt bei goldenem Licht durch ruhige Straßen",
+      "description": "Ein kompakter Brief, der Fahrerin und sanfte Kamerafahrt bei natürlichem Licht in einer alltäglichen Nachbarschaft klar lesbar hält."
+    },
+    "2": {
+      "title": "Dreißigsekündiger One-Take mit einem Cyberpunk-Hackerroboter",
+      "description": "Ein bewusst minimaler Prompt, an dem sich untersuchen lässt, wie Motiv, Arbeitsplatz und fortlaufende Handlung zu einer langen Einstellung wachsen."
+    },
+    "3": {
+      "title": "Industriekampf mit zwei Referenzen und getakteten Treffern",
+      "description": "Ein dichter Action-Brief mit zwei Bildreferenzen, der Blocking, Kamerawechsel, Zeitlupe, Treffer und Umgebungsreaktionen über vierzehn Sekunden koordiniert."
+    },
+    "4": {
+      "title": "Dunkler Trailer einer Alien-Ankunft",
+      "description": "Kurzer 30-Sekunden-Prompt zum Testen von wachsendem Mysterium, globalem Maßstab und stimmigem Filmrhythmus.",
+      "content": "Ein cineastischer, dunkler und geheimnisvoller Trailer für einen Film über die Ankunft von Außerirdischen auf der Erde."
+    },
+    "5": {
+      "title": "Vier Jahreszeiten in einer ungeschnittenen Fahrt",
+      "description": "Redaktionelle Rekonstruktion einer öffentlichen Demo für 30 Sekunden durchgehende Umweltkontinuität.",
+      "content": "Erzeuge eine ununterbrochene 30-sekündige Kamerafahrt durch dieselbe Landschaft, während Frühling zu Sommer, Sommer zu Herbst und Herbst zu Winter wird. Kamerapfad, Orientierungspunkte und Tempo bleiben exakt erhalten; Vegetation, Wetter, Licht, Boden, Klang und menschliche Aktivität entwickeln sich natürlich. Verberge Übergänge hinter Vordergrundobjekten, Partikeln oder motivierten Schwenks. Keine Schnitte, Geometriesprünge oder Identitätswechsel. Ende auf derselben Bildachse wie der Anfang."
+    }
   },
   "fr": {
-    "1": { "title": "Balade à vélo à l'heure dorée dans des rues calmes", "description": "Un brief compact qui garde la cycliste et le travelling doux lisibles, dans une lumière naturelle et un quartier quotidien." },
-    "2": { "title": "Robot hacker cyberpunk en plan-séquence de trente secondes", "description": "Un prompt volontairement minimal pour étudier comment un sujet, un poste de travail et une action continue se déploient en plan long." },
-    "3": { "title": "Combat industriel à deux références et impacts minutés", "description": "Un brief d'action dense qui coordonne deux combattants, mise en scène, changements de caméra, ralenti, impacts et réactions du décor sur quatorze secondes." }
+    "1": {
+      "title": "Balade à vélo à l'heure dorée dans des rues calmes",
+      "description": "Un brief compact qui garde la cycliste et le travelling doux lisibles, dans une lumière naturelle et un quartier quotidien."
+    },
+    "2": {
+      "title": "Robot hacker cyberpunk en plan-séquence de trente secondes",
+      "description": "Un prompt volontairement minimal pour étudier comment un sujet, un poste de travail et une action continue se déploient en plan long."
+    },
+    "3": {
+      "title": "Combat industriel à deux références et impacts minutés",
+      "description": "Un brief d'action dense qui coordonne deux combattants, mise en scène, changements de caméra, ralenti, impacts et réactions du décor sur quatorze secondes."
+    },
+    "4": {
+      "title": "Bande-annonce sombre d'une arrivée extraterrestre",
+      "description": "Prompt bref de trente secondes pour éprouver la montée du mystère, l'échelle mondiale et un rythme cinématographique cohérent.",
+      "content": "Une bande-annonce cinématographique, sombre et mystérieuse pour un film sur l'arrivée d'extraterrestres sur Terre."
+    },
+    "5": {
+      "title": "Quatre saisons en un seul plan continu",
+      "description": "Reconstruction éditoriale d'une démonstration publique destinée à tester trente secondes de continuité environnementale.",
+      "content": "Créez un mouvement de caméra ininterrompu de 30 secondes dans le même paysage tandis que le printemps devient été, l'été automne et l'automne hiver. Conservez exactement le trajet, les repères et la vitesse; faites évoluer naturellement végétation, météo, lumière, sol, son et activité humaine. Masquez chaque transition par une occultation, des particules ou un mouvement motivé. Aucun raccord, saut de géométrie ou changement d'identité. Terminez sur le même axe de composition qu'au départ."
+    }
   },
   "ja": {
-    "1": { "title": "静かな街を走るゴールデンアワーの自転車ショット", "description": "自然光の住宅街で、一人のサイクリストと穏やかな追従カメラを明瞭に保つコンパクトなショットブリーフです。" },
-    "2": { "title": "サイバーパンクのハッカーロボットを描く30秒ワンテイク", "description": "一つの被写体、作業環境、継続動作が長回しへどう展開されるかを検証できる、意図的に簡潔なプロンプトです。" },
-    "3": { "title": "2枚の参照画像で作るタイムコード付き工業地帯バトル", "description": "二人の格闘家を指定し、ブロッキング、カメラ変更、スロー、衝撃表現、環境反応を14秒にわたって同期する詳細なアクションブリーフです。" }
+    "1": {
+      "title": "静かな街を走るゴールデンアワーの自転車ショット",
+      "description": "自然光の住宅街で、一人のサイクリストと穏やかな追従カメラを明瞭に保つコンパクトなショットブリーフです。"
+    },
+    "2": {
+      "title": "サイバーパンクのハッカーロボットを描く30秒ワンテイク",
+      "description": "一つの被写体、作業環境、継続動作が長回しへどう展開されるかを検証できる、意図的に簡潔なプロンプトです。"
+    },
+    "3": {
+      "title": "2枚の参照画像で作るタイムコード付き工業地帯バトル",
+      "description": "二人の格闘家を指定し、ブロッキング、カメラ変更、スロー、衝撃表現、環境反応を14秒にわたって同期する詳細なアクションブリーフです。"
+    },
+    "4": {
+      "title": "異星人到来を描くダークな予告編",
+      "description": "30秒の短い指示で、深まる謎、世界規模の広がり、一貫した映画的テンポを試す。",
+      "content": "異星人が地球へ到来する映画の、シネマティックで暗く謎めいた予告編。"
+    },
+    "5": {
+      "title": "ワンカットで移ろう四季",
+      "description": "公開デモの内容を編集的に再構成し、30秒間の環境連続性を検証するプロンプト。",
+      "content": "同じ風景を進む30秒の途切れないカメラ移動で、春から夏、夏から秋、秋から冬へ変化させる。経路、ランドマーク、速度は完全に維持し、植生、天候、光、地面、環境音、人の活動だけを自然に移ろわせる。前景の遮蔽、舞う粒子、動機のある旋回で各変化を隠す。カット、形状の跳躍、人物の同一性変化は禁止。冒頭と同じ構図軸で終える。"
+    }
   },
   "ko": {
-    "1": { "title": "조용한 도심을 달리는 골든아워 자전거 장면", "description": "자연광이 비치는 일상적인 동네에서 한 명의 라이더와 부드러운 추적 카메라를 명확하게 유지하는 간결한 샷 브리프입니다." },
-    "2": { "title": "사이버펑크 해커 로봇의 30초 원테이크", "description": "하나의 피사체, 작업 공간과 지속 동작이 긴 장면으로 어떻게 확장되는지 살펴볼 수 있는 의도적으로 간결한 프롬프트입니다." },
-    "3": { "title": "두 참조 이미지로 만든 타임코드 산업 격투 장면", "description": "두 전투원을 지정하고 블로킹, 카메라 전환, 슬로모션, 충격 효과와 환경 반응을 14초 동안 조율하는 밀도 높은 액션 브리프입니다." }
+    "1": {
+      "title": "조용한 도심을 달리는 골든아워 자전거 장면",
+      "description": "자연광이 비치는 일상적인 동네에서 한 명의 라이더와 부드러운 추적 카메라를 명확하게 유지하는 간결한 샷 브리프입니다."
+    },
+    "2": {
+      "title": "사이버펑크 해커 로봇의 30초 원테이크",
+      "description": "하나의 피사체, 작업 공간과 지속 동작이 긴 장면으로 어떻게 확장되는지 살펴볼 수 있는 의도적으로 간결한 프롬프트입니다."
+    },
+    "3": {
+      "title": "두 참조 이미지로 만든 타임코드 산업 격투 장면",
+      "description": "두 전투원을 지정하고 블로킹, 카메라 전환, 슬로모션, 충격 효과와 환경 반응을 14초 동안 조율하는 밀도 높은 액션 브리프입니다."
+    },
+    "4": {
+      "title": "외계인 도착을 다룬 어두운 예고편",
+      "description": "짧은 30초 지시로 고조되는 미스터리, 세계적 규모와 일관된 영화적 호흡을 시험합니다.",
+      "content": "외계인이 지구에 도착하는 영화의 시네마틱하고 어둡고 미스터리한 예고편."
+    },
+    "5": {
+      "title": "원테이크로 흐르는 사계절",
+      "description": "공개 데모를 편집적으로 재구성해 30초 환경 연속성을 시험하는 프롬프트입니다.",
+      "content": "같은 풍경을 지나는 하나의 연속된 30초 카메라 이동 안에서 봄이 여름으로, 여름이 가을로, 가을이 겨울로 바뀐다. 경로, 랜드마크 위치와 카메라 속도는 그대로 유지하고 식생, 날씨, 빛, 지면, 환경음과 사람들의 활동만 자연스럽게 변화시킨다. 전경 가림, 흩날리는 입자 또는 동기 있는 회전으로 전환을 숨긴다. 컷, 지오메트리 점프, 정체성 변화는 금지한다. 시작과 같은 구도 축에서 끝낸다."
+    }
   },
   "zh": {
-    "1": { "title": "金色时刻骑行穿过安静街区", "description": "一份紧凑的文生视频简报，在自然光和日常街区环境中保持骑行者清晰，并用平滑跟拍维持画面可读性。" },
-    "2": { "title": "赛博朋克黑客机器人三十秒一镜到底", "description": "一条刻意保持简短的提示词，用来观察单一主体、工作台环境和持续动作如何扩展成长镜头。" },
-    "3": { "title": "双参考图工业格斗与分秒冲击设计", "description": "一份高密度动作简报，以两名角色为参考，在十四秒时间轴内协调调度、镜头变化、慢动作、冲击特效和环境反馈。" }
+    "1": {
+      "title": "金色时刻骑行穿过安静街区",
+      "description": "一份紧凑的文生视频简报，在自然光和日常街区环境中保持骑行者清晰，并用平滑跟拍维持画面可读性。"
+    },
+    "2": {
+      "title": "赛博朋克黑客机器人三十秒一镜到底",
+      "description": "一条刻意保持简短的提示词，用来观察单一主体、工作台环境和持续动作如何扩展成长镜头。"
+    },
+    "3": {
+      "title": "双参考图工业格斗与分秒冲击设计",
+      "description": "一份高密度动作简报，以两名角色为参考，在十四秒时间轴内协调调度、镜头变化、慢动作、冲击特效和环境反馈。"
+    },
+    "4": {
+      "title": "黑暗神秘的外星降临预告片",
+      "description": "用极短的三十秒提示词测试悬念递进、全球尺度和连贯的电影节奏。",
+      "content": "一支电影感、黑暗而神秘的预告片，讲述外星人降临地球。"
+    },
+    "5": {
+      "title": "一个连续镜头中的四季变换",
+      "description": "基于公开演示概念重构的提示词，用于测试三十秒环境连续性。",
+      "content": "用一个不间断的 30 秒镜头穿越同一片景观，让春天转为夏天、夏天转为秋天、秋天转为冬天。精确保留摄影机路径、地标位置和移动速度，让植被、天气、光线、地面质感、环境声和人物活动自然演变。利用前景遮挡、漂浮粒子或有动机的转向隐藏每次过渡。不得剪辑、跳变几何或改变主体身份。结尾回到开场建立的同一构图轴。"
+    }
   }
 }

@@ -2,7 +2,7 @@
 ImagineVid-branded public field guide for source-verifiable Seedance 2.5 prompts and production patterns.
 
 <directory>
-data/ - English truth sources for categories, official cases, and verified community prompts; category labels cover all published languages while prompt overlays await verified cases.
+data/ - English truth sources for categories, official cases, and five verified community prompts; reviewed prompt overlays cover all thirteen non-English views.
 docs/ - Model scope, contribution contract, local workflow, and X-source review policy.
 public/images/ - Original ImagineVid cover and future licensed preview assets.
 scripts/ - Local data validation, candidate scoring, and README generation.
