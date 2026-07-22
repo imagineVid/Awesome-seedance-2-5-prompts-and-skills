@@ -98,9 +98,9 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **5** |
+| Doğrulanmış örnekler | **6** |
 | Editör seçimi | **2** |
-| Oluşturulma | **22 Temmuz 2026 Çarşamba 14:05:26 UTC** |
+| Oluşturulma | **22 Temmuz 2026 Çarşamba 14:40:26 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Her referansa bir görev verin - Hangi girdinin kimliği, kompozisyonu, hareketi
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Uzun çekim bloklama ve kamera yolları (2)
+### Uzun çekim bloklama ve kamera yolları (3)
 
 Kadraj, kamera yolu, blocking, tempo, açığa çıkarmalar ve geçişler etrafında kurulan çekim brifleri.
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: Kamera hareket ederken havada donan leopar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+Dramatik bir vahşi yaşam yörüngesi için özne zamanını kamera zamanından ayıran herkese açık Seedance 2.5 sonucunun yeniden kurulumu.
+
+##### Kaynak prompt
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="Kamera hareket ederken havada donan leopar - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [jzcreates](https://x.com/jzcreates)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/jzcreates/status/2079745245713928390)
+- **Yayımlandı:** 22 Temmuz 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### Diyalog, Foley ve müzik zamanlaması (1)
@@ -326,7 +361,7 @@ Konuşma, oyunculuk, ambiyans, müzik veya senkron sesin sahneyi taşıdığı p
 
 <a id="prompt-4"></a>
 
-#### #3: Uzaylı gelişini anlatan karanlık fragman
+#### #4: Uzaylı gelişini anlatan karanlık fragman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (5)</summary>
+<summary>Community creators we thank (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-22T14:05:26.948Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-22T14:40:26.399Z</sub>
 
 </div>

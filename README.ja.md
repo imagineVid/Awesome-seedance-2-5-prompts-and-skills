@@ -98,9 +98,9 @@
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **5** |
+| 検証済みケース | **6** |
 | 編集部のおすすめ | **2** |
-| 生成日時 | **2026年7月22日水曜日 14:05:26 UTC** |
+| 生成日時 | **2026年7月22日水曜日 14:40:26 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### 長回しのブロッキングとカメラ経路 (2)
+### 長回しのブロッキングとカメラ経路 (3)
 
 フレーミング、カメラパス、ブロッキング、テンポ、見せ場、トランジションを軸にしたショットブリーフ。
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: 空中で止まるヒョウを動き続けるカメラが回り込む
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+公開されたSeedance 2.5映像を基に、被写体の時間とカメラの時間を分離した劇的な野生動物オービット。
+
+##### ソースプロンプト
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="空中で止まるヒョウを動き続けるカメラが回り込む - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [jzcreates](https://x.com/jzcreates)
+- **正規の出典:** [正規の出典](https://x.com/jzcreates/status/2079745245713928390)
+- **公開日:** 2026年7月22日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### 台詞・フォーリー・音楽のタイミング (1)
@@ -326,7 +361,7 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 <a id="prompt-4"></a>
 
-#### #3: 異星人到来を描くダークな予告編
+#### #4: 異星人到来を描くダークな予告編
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (5)</summary>
+<summary>Community creators we thank (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-22T14:05:26.936Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-22T14:40:26.386Z</sub>
 
 </div>

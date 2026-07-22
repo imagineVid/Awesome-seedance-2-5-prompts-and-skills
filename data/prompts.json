@@ -248,5 +248,58 @@
         }
       ]
     }
+  },
+  {
+    "id": 6,
+    "model": "seedance-2.5",
+    "title": {
+      "en": "Leopard frozen mid-leap while the camera keeps moving"
+    },
+    "description": {
+      "en": "A production reconstruction of a public Seedance 2.5 result that separates subject time from camera time for a dramatic wildlife orbit."
+    },
+    "content": {
+      "en": "Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text."
+    },
+    "sourceLink": "https://x.com/jzcreates/status/2079745245713928390",
+    "sourcePublishedAt": "2026-07-22T01:48:01.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg"
+    },
+    "author": {
+      "name": "jzcreates",
+      "link": "https://x.com/jzcreates"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2079745245713928390",
+      "model_evidence": "seedance-2.5",
+      "collected_at": "2026-07-22",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review.",
+      "prompt_source": "rewritten_from_visible_output",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 131,
+      "bookmarkCount": 0
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 72,
+          "title": "Long-Take Blocking & Camera Paths",
+          "slug": "long-take-blocking-camera-paths"
+        }
+      ]
+    },
+    "sort": 6
   }
 ]

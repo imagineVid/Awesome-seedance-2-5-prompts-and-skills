@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **5** |
+| 검증된 사례 | **6** |
 | 에디터 추천 | **2** |
-| 생성 시각 | **2026년 7월 22일 수요일 오후 2시 5분 26초 UTC** |
+| 생성 시각 | **2026년 7월 22일 수요일 PM 2시 40분 26초 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### 롱테이크 블로킹 및 카메라 경로 (2)
+### 롱테이크 블로킹 및 카메라 경로 (3)
 
 프레이밍, 카메라 경로, 블로킹, 페이싱, 공개 순서, 전환을 중심으로 구성한 샷 브리프입니다.
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: 공중에 멈춘 표범 주위를 계속 도는 카메라
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+공개 Seedance 2.5 결과를 바탕으로 피사체 시간과 카메라 시간을 분리한 극적인 야생동물 오비트 재구성.
+
+##### 출처 프롬프트
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="공중에 멈춘 표범 주위를 계속 도는 카메라 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### 근거
+
+- **제작자:** [jzcreates](https://x.com/jzcreates)
+- **정식 출처:** [정식 출처](https://x.com/jzcreates/status/2079745245713928390)
+- **게시일:** 2026년 7월 22일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### 대사, 폴리 및 음악 타이밍 (1)
@@ -326,7 +361,7 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 <a id="prompt-4"></a>
 
-#### #3: 외계인 도착을 다룬 어두운 예고편
+#### #4: 외계인 도착을 다룬 어두운 예고편
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (5)</summary>
+<summary>Community creators we thank (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-22T14:05:26.938Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-22T14:40:26.388Z</sub>
 
 </div>

@@ -98,9 +98,9 @@ Commencez par une action et une idée de caméra. Ajoutez le timing, l'audio et 
 
 | Champ de la collection | Valeur actuelle |
 |--------|-------|
-| Cas vérifiés | **5** |
+| Cas vérifiés | **6** |
 | Sélection éditoriale | **2** |
-| Généré | **mercredi 22 juillet 2026 à 14:05:26 UTC** |
+| Généré | **mercredi 22 juillet 2026 à 14:40:26 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Attribuez un rôle à chaque référence - Précisez quelle entrée contrôle l'
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Mise en scène et trajectoires caméra en plan-séquence (2)
+### Mise en scène et trajectoires caméra en plan-séquence (3)
 
 Briefs de plans construits autour du cadrage, du mouvement de caméra, de la mise en scène, du rythme, des révélations et des transitions.
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: Léopard figé en plein saut tandis que la caméra avance
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Pourquoi le workflow est important
+
+Reconstruction d’un résultat public Seedance 2.5 séparant le temps du sujet de celui de la caméra pour une orbite animalière.
+
+##### Prompt source
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### Vidéo
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="Léopard figé en plein saut tandis que la caméra avance - Motion preview"></a>
+
+*Cliquez sur l'aperçu pour ouvrir la vidéo* · **[▶ Voir la vidéo →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### Éléments de preuve
+
+- **Créateur:** [jzcreates](https://x.com/jzcreates)
+- **Source canonique:** [Source canonique](https://x.com/jzcreates/status/2079745245713928390)
+- **Publié:** 22 juillet 2026
+- **Langue du prompt:** en
+
+**[Créer avec cette direction · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### Timing du dialogue, des bruitages et de la musique (1)
@@ -326,7 +361,7 @@ Prompts centrés sur l'interprétation, où la parole, le jeu, l'ambiance, la mu
 
 <a id="prompt-4"></a>
 
-#### #3: Bande-annonce sombre d'une arrivée extraterrestre
+#### #4: Bande-annonce sombre d'une arrivée extraterrestre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 ## Crédits des créateurs
 
 <details>
-<summary>Community creators we thank (5)</summary>
+<summary>Community creators we thank (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 **[Proposer un cas vérifié](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Ajouter une étoile à la collection](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Généré à partir des données locales versionnées le 2026-07-22T14:05:26.932Z</sub>
+<sub>Généré à partir des données locales versionnées le 2026-07-22T14:40:26.382Z</sub>
 
 </div>

@@ -98,9 +98,9 @@
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **5** |
+| Проверенные примеры | **6** |
 | Редакционный выбор | **2** |
-| Сгенерировано | **среда, 22 июля 2026 г. в 14:05:26 UTC** |
+| Сгенерировано | **среда, 22 июля 2026 г. в 14:40:26 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Мизансцена и маршруты камеры в длинных планах (2)
+### Мизансцена и маршруты камеры в длинных планах (3)
 
 Брифы кадров с композицией, маршрутом камеры, мизансценой, темпом, раскрытиями и переходами.
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: Леопард замер в прыжке, пока камера движется
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Реконструкция публичного результата Seedance 2.5, разделяющая время объекта и камеры для эффектного облёта.
+
+##### Исходный промпт
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="Леопард замер в прыжке, пока камера движется - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [jzcreates](https://x.com/jzcreates)
+- **Канонический источник:** [Канонический источник](https://x.com/jzcreates/status/2079745245713928390)
+- **Опубликовано:** 22 июля 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### Тайминг диалога, шумов и музыки (1)
@@ -326,7 +361,7 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 <a id="prompt-4"></a>
 
-#### #3: Мрачный трейлер о прибытии пришельцев
+#### #4: Мрачный трейлер о прибытии пришельцев
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 ## Благодарности авторам
 
 <details>
-<summary>Community creators we thank (5)</summary>
+<summary>Community creators we thank (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-22T14:05:26.945Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-22T14:40:26.397Z</sub>
 
 </div>

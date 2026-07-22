@@ -98,9 +98,9 @@ Empieza con una acción y una idea de cámara. Añade restricciones de tiempo, a
 
 | Campo de la colección | Valor actual |
 |--------|-------|
-| Casos verificados | **5** |
+| Casos verificados | **6** |
 | Selección editorial | **2** |
-| Generado | **miércoles, 22 de julio de 2026, 14:05:26 UTC** |
+| Generado | **miércoles, 22 de julio de 2026, 14:40:26 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Asigna una función a cada referencia - Indica qué entrada controla identidad, 
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Puesta en escena y cámara en planos secuencia (2)
+### Puesta en escena y cámara en planos secuencia (3)
 
 Briefs de plano basados en encuadre, recorrido de cámara, blocking, ritmo, revelaciones y transiciones.
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: Leopardo congelado en pleno salto con cámara móvil
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Por qué importa este flujo de trabajo
+
+Reconstrucción de un resultado público de Seedance 2.5 que separa el tiempo del sujeto del de la cámara para un giro de fauna dramático.
+
+##### Prompt de origen
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="Leopardo congelado en pleno salto con cámara móvil - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### Evidencias
+
+- **Creador:** [jzcreates](https://x.com/jzcreates)
+- **Fuente canónica:** [Fuente canónica](https://x.com/jzcreates/status/2079745245713928390)
+- **Publicado:** 22 de julio de 2026
+- **Idioma del prompt:** en
+
+**[Crea con esta dirección · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### Ritmo de diálogo, Foley y música (1)
@@ -326,7 +361,7 @@ Prompts guiados por la interpretación en los que el habla, la actuación, el am
 
 <a id="prompt-4"></a>
 
-#### #3: Tráiler oscuro de llegada alienígena
+#### #4: Tráiler oscuro de llegada alienígena
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 ## Créditos de los creadores
 
 <details>
-<summary>Community creators we thank (5)</summary>
+<summary>Community creators we thank (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-07-22T14:05:26.920Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-07-22T14:40:26.376Z</sub>
 
 </div>

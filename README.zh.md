@@ -98,9 +98,9 @@
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **5** |
+| 已核验案例 | **6** |
 | 编辑精选 | **2** |
-| 生成时间 | **2026年7月22日星期三 UTC 14:05:26** |
+| 生成时间 | **2026年7月22日星期三 UTC 14:40:26** |
 
 </div>
 
@@ -235,7 +235,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### 长镜头调度与镜头路径 (2)
+### 长镜头调度与镜头路径 (3)
 
 围绕构图、镜头路径、调度、节奏、揭示和转场构建的镜头简报。
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: 猎豹定格半空，镜头继续环绕
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+基于公开 Seedance 2.5 成片重构的制作提示词，将主体时间与镜头时间分离，形成戏剧性的野生动物环绕镜头。
+
+##### 来源提示词
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="猎豹定格半空，镜头继续环绕 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### 证据
+
+- **创作者:** [jzcreates](https://x.com/jzcreates)
+- **规范来源:** [规范来源](https://x.com/jzcreates/status/2079745245713928390)
+- **发布时间:** 2026年7月22日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### 对白、拟音与音乐时序 (1)
@@ -326,7 +361,7 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 <a id="prompt-4"></a>
 
-#### #3: 黑暗神秘的外星降临预告片
+#### #4: 黑暗神秘的外星降临预告片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 ## 创作者鸣谢
 
 <details>
-<summary>查看并感谢社区作者 (5)</summary>
+<summary>查看并感谢社区作者 (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-22T14:05:26.940Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-22T14:40:26.392Z</sub>
 
 </div>

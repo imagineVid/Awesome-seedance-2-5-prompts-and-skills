@@ -98,9 +98,9 @@ Begin met één actie en één camera-idee. Voeg timing, audio- en behoudsbeperk
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **5** |
+| Geverifieerde voorbeelden | **6** |
 | Redactionele keuze | **2** |
-| Gegenereerd | **woensdag 22 juli 2026 om 14:05:26 UTC** |
+| Gegenereerd | **woensdag 22 juli 2026 om 14:40:26 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Geef elke referentie een taak - Bepaal welke input identiteit, compositie, beweg
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Blocking en camerapaden in lange takes (2)
+### Blocking en camerapaden in lange takes (3)
 
 Shotbriefings rond kadrering, camerapad, blocking, tempo, onthullingen en overgangen.
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: Luipaard bevroren in de sprong terwijl de camera beweegt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Productiereconstructie van een openbaar Seedance 2.5-resultaat waarin onderwerp- en cameratijd worden gescheiden voor een dramatische wildlifebaan.
+
+##### Bronprompt
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="Luipaard bevroren in de sprong terwijl de camera beweegt - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [jzcreates](https://x.com/jzcreates)
+- **Canonieke bron:** [Canonieke bron](https://x.com/jzcreates/status/2079745245713928390)
+- **Gepubliceerd:** 22 juli 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### Timing van dialoog, Foley en muziek (1)
@@ -326,7 +361,7 @@ Performancegerichte prompts waarin spraak, acteren, ambiance, muziek of gesynchr
 
 <a id="prompt-4"></a>
 
-#### #3: Duistere trailer over een buitenaardse aankomst
+#### #4: Duistere trailer over een buitenaardse aankomst
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 ## Credits voor makers
 
 <details>
-<summary>Community creators we thank (5)</summary>
+<summary>Community creators we thank (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-22T14:05:26.943Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-22T14:40:26.395Z</sub>
 
 </div>

@@ -98,9 +98,9 @@ Zacznij od jednej akcji i jednego pomysłu na kamerę. Dodawaj timing, audio i o
 
 | Pole kolekcji | Bieżąca wartość |
 |--------|-------|
-| Zweryfikowane przykłady | **5** |
+| Zweryfikowane przykłady | **6** |
 | Wybór redakcji | **2** |
-| Wygenerowano | **środa, 22 lipca 2026 14:05:26 UTC** |
+| Wygenerowano | **środa, 22 lipca 2026 14:40:26 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Przypisz zadanie każdej referencji - Określ, które wejście steruje tożsamo�
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Blocking i trasy kamery w długich ujęciach (2)
+### Blocking i trasy kamery w długich ujęciach (3)
 
 Briefy ujęć oparte na kadrowaniu, trasie kamery, blockingu, tempie, ujawnieniach i przejściach.
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: Lampart zamrożony w skoku przy ruchomej kamerze
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Dlaczego ten workflow ma znaczenie
+
+Rekonstrukcja publicznego wyniku Seedance 2.5, oddzielająca czas zwierzęcia od czasu kamery dla dramatycznej orbity.
+
+##### Prompt źródłowy
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### Wideo
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="Lampart zamrożony w skoku przy ruchomej kamerze - Motion preview"></a>
+
+*Kliknij podgląd, aby otworzyć wideo* · **[▶ Obejrzyj wideo →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### Dowody
+
+- **Twórca:** [jzcreates](https://x.com/jzcreates)
+- **Źródło kanoniczne:** [Źródło kanoniczne](https://x.com/jzcreates/status/2079745245713928390)
+- **Opublikowano:** 22 lipca 2026
+- **Język promptu:** en
+
+**[Utwórz z tym kierunkiem · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### Timing dialogu, Foley i muzyki (1)
@@ -326,7 +361,7 @@ Prompty oparte na występie, w których mowę, aktorstwo, atmosferę, muzykę lu
 
 <a id="prompt-4"></a>
 
-#### #3: Mroczny zwiastun przybycia obcych
+#### #4: Mroczny zwiastun przybycia obcych
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 ## Kredyty twórców
 
 <details>
-<summary>Community creators we thank (5)</summary>
+<summary>Community creators we thank (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-22T14:05:26.949Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-22T14:40:26.400Z</sub>
 
 </div>

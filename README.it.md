@@ -98,9 +98,9 @@ Inizia con un'azione e un'idea per la camera. Aggiungi timing, audio e vincoli d
 
 | Campo della raccolta | Valore corrente |
 |--------|-------|
-| Casi verificati | **5** |
+| Casi verificati | **6** |
 | Selezione editoriale | **2** |
-| Generato | **mercoledì 22 luglio 2026 alle ore 14:05:26 UTC** |
+| Generato | **mercoledì 22 luglio 2026 alle ore 14:40:26 UTC** |
 
 </div>
 
@@ -235,7 +235,7 @@ Assegna un ruolo a ogni riferimento - Indica quale input controlla identità, co
 
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Blocking e percorsi camera nei piani sequenza (2)
+### Blocking e percorsi camera nei piani sequenza (3)
 
 Brief per le inquadrature costruiti su composizione, percorso della camera, blocking, ritmo, rivelazioni e transizioni.
 
@@ -318,6 +318,41 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 ---
 
+<a id="prompt-6"></a>
+
+#### #3: Leopardo sospeso nel salto con camera in movimento
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Perché il workflow è importante
+
+Ricostruzione di un risultato pubblico Seedance 2.5 che separa il tempo del soggetto da quello della camera per un’orbita drammatica.
+
+##### Prompt originale
+
+```
+Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leopard launches across a narrow rocky gap. At the apex of the jump, freeze the leopard completely in time while dust, grass, and the surrounding environment continue moving naturally. The camera does not stop: sweep from a low side-tracking angle into a smooth 180-degree orbit around the suspended animal, revealing detailed fur, focused eyes, stretched anatomy, and the valley beyond. After the orbit, release time and let the leopard land with believable weight as dust rolls past the lens. Maintain one leopard, coherent terrain, correct limb anatomy, natural parallax, warm late-afternoon light, and continuous ambient wind and impact audio. No cuts, no duplicated animal, no frozen background, no text.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2079745224570519552/pu/img/rzb_86oXQBV3X7CX.jpg" height="420" alt="Leopardo sospeso nel salto con camera in movimento - Motion preview"></a>
+
+*Fai clic sull'anteprima per aprire il video* · **[▶ Guarda il video →](https://video.twimg.com/ext_tw_video/2079745224570519552/pu/vid/avc1/720x1280/27yst_h2-L4NaPMA.mp4?tag=12)**
+</div>
+
+##### Elementi di prova
+
+- **Autore:** [jzcreates](https://x.com/jzcreates)
+- **Fonte canonica:** [Fonte canonica](https://x.com/jzcreates/status/2079745245713928390)
+- **Pubblicato:** 22 luglio 2026
+- **Lingua del prompt:** en
+
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### Tempismo di dialogo, Foley e musica (1)
@@ -326,7 +361,7 @@ Prompt guidati dalla performance, in cui parlato, recitazione, atmosfera, musica
 
 <a id="prompt-4"></a>
 
-#### #3: Trailer oscuro dell'arrivo alieno
+#### #4: Trailer oscuro dell'arrivo alieno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -405,9 +440,9 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 ## Crediti dei creator
 
 <details>
-<summary>Community creators we thank (5)</summary>
+<summary>Community creators we thank (6)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai)
+[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
 
 </details>
 
@@ -427,6 +462,6 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 **[Invia un caso verificato](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-07-22T14:05:26.926Z</sub>
+<sub>Generato dai dati locali versionati il 2026-07-22T14:40:26.379Z</sub>
 
 </div>
