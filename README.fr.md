@@ -100,7 +100,7 @@ Commencez par une action et une idée de caméra. Ajoutez le timing, l'audio et 
 |--------|-------|
 | Cas vérifiés | **6** |
 | Sélection éditoriale | **2** |
-| Généré | **jeudi 23 juillet 2026 à 14:10:57 UTC** |
+| Généré | **jeudi 23 juillet 2026 à 17:26:57 UTC** |
 
 </div>
 
@@ -462,6 +462,6 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 **[Proposer un cas vérifié](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Ajouter une étoile à la collection](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Généré à partir des données locales versionnées le 2026-07-23T14:10:57.744Z</sub>
+<sub>Généré à partir des données locales versionnées le 2026-07-23T17:26:57.224Z</sub>
 
 </div>
