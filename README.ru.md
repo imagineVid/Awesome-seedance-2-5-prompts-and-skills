@@ -100,7 +100,7 @@
 |--------|-------|
 | Проверенные примеры | **6** |
 | Редакционный выбор | **2** |
-| Сгенерировано | **воскресенье, 26 июля 2026 г. в 06:40:18 UTC** |
+| Сгенерировано | **воскресенье, 26 июля 2026 г. в 10:04:22 UTC** |
 
 </div>
 
@@ -462,6 +462,6 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-26T06:40:18.181Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-26T10:04:22.372Z</sub>
 
 </div>
