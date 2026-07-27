@@ -100,7 +100,7 @@ Zacznij od jednej akcji i jednego pomysłu na kamerę. Dodawaj timing, audio i o
 |--------|-------|
 | Zweryfikowane przykłady | **6** |
 | Wybór redakcji | **2** |
-| Wygenerowano | **poniedziałek, 27 lipca 2026 07:37:33 UTC** |
+| Wygenerowano | **poniedziałek, 27 lipca 2026 11:29:19 UTC** |
 
 </div>
 
@@ -462,6 +462,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-27T07:37:33.558Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-27T11:29:19.581Z</sub>
 
 </div>
