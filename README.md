@@ -98,9 +98,9 @@ Start with one visible action and one camera decision. Add references, sound, ti
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **6** |
+| Verified Cases | **9** |
 | Editorial pick | **2** |
-| Generated | **Tuesday, July 28, 2026 at 2:19:21 PM UTC** |
+| Generated | **Tuesday, July 28, 2026 at 10:51:12 AM UTC** |
 
 </div>
 
@@ -225,7 +225,7 @@ Aesthetic Tone: A stark industrial wasteland style featuring low-saturation cool
 
 <a id="workflow-multimodal-reference-direction"></a>
 
-### Multimodal Reference Direction (1)
+### Multimodal Reference Direction (2)
 
 Assign a job to every reference - State which input controls identity, composition, movement, sound, or visual treatment
 
@@ -233,15 +233,50 @@ Assign a job to every reference - State which input controls identity, compositi
 
 - [Two-reference industrial fight with timestamped impacts](#prompt-3)
 
+<a id="prompt-7"></a>
+
+#### #1: A seamless sequence on a vast frozen mountain peak
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A source-backed community video prompt rebuilt as a reusable cinematic brief with clear motion, camera, and continuity constraints.
+
+##### Source prompt
+
+```
+A seamless cinematic sequence on a vast frozen mountain peak during blue hour beneath a violent arctic blizzard. Endless snow-covered cliffs, towering glaciers, ancient stone ruins, and a colossal weathered throne carved into the mountain overlook an endless frozen kingdom. Thick snow falls through the air while powerful winds carry swirling ice particles across the landscape. The atmosphere feels ancient, sacred, and forgotten. Kael, a fearless legendary warrior with shoulder-length wavy black hair, sharp amber eyes, a rugged face with a subtle scar above his left eyebrow, walks slowly and confidently through the deep snow toward the ancient throne. He wears weathered black dragon-scale armor with intricate silver engravings, heavy armored boots, leather belts across his chest, and a long tattered black cloak flowing naturally in the wind. A massive glowing blue runic greatsword rests on his back, casting a soft blue light onto the snow. The camera begins with an ultra-wide aerial shot before descending into one smooth forward tracking shot behind Kael. Every footstep leaves deep impressions in the snow. His cloak and hair react naturally to the storm while distant thunder echoes through the mountains. Kael reaches the ancient throne and slowly unsheathes his glowing blue runic greatsword. Without hesitation, he drives the sword into the frozen ground before the throne. The instant the blade touches the ice, brilliant blue energy surges outward in glowing cracks racing across the mountain. The storm suddenly becomes silent. Thousands of ancient spectral warriors begin rising from beneath the snow across the mountain. Their translucent blue armor glows softly as they emerge in complete silence. One after another, they kneel toward Kael, forming an endless ghostly army stretching across the frozen landscape. The camera slowly pulls back and rises high above the mountain, revealing Kael standing alone before the throne with his glowing sword planted in the ice while an enormous spectral army kneels beneath him. Snow continues falling peacefully as blue light illuminates the entire mountain. The sequence ends with a breathtaking ultra-wide aerial view before fading to black. Ultra-photorealistic fantasy filmmaking, Hollywood blockbuster, IMAX scale, cinematic blue-hour lighting, volumetric snowfall, realistic cloth and hair simulation, physically accurate anim.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081585276347121664/vid/avc1/1920x1080/mTsw-MR6gwrWSBUY.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2081585276347121664/img/T7nboWV2ufp0gfxn.jpg" height="420" alt="A seamless sequence on a vast frozen mountain peak - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2081585276347121664/vid/avc1/1920x1080/mTsw-MR6gwrWSBUY.mp4?tag=29)**
+</div>
+
+##### Evidence
+
+- **Creator:** [Zephyra Leigh](https://x.com/ZephyraLeigh)
+- **Canonical source:** [Canonical source](https://x.com/ZephyraLeigh/status/2081585413475766574)
+- **Published:** July 27, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-long-take-blocking-camera-paths"></a>
 
-### Long-Take Blocking & Camera Paths (3)
+### Long-Take Blocking & Camera Paths (5)
 
 Shot briefs built around framing, camera path, blocking, pacing, reveals, and transitions.
 
 <a id="prompt-2"></a>
 
-#### #1: Thirty-second cyberpunk hacker robot one-take
+#### #2: Thirty-second cyberpunk hacker robot one-take
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -276,7 +311,7 @@ Cyberpunk hacker robot working in front of many monitors.
 
 <a id="prompt-5"></a>
 
-#### #2: Four-season transformation in one continuous take
+#### #3: Four-season transformation in one continuous take
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -311,7 +346,7 @@ Create one uninterrupted 30-second camera move through the same landscape as spr
 
 <a id="prompt-6"></a>
 
-#### #3: Leopard frozen mid-leap while the camera keeps moving
+#### #4: Leopard frozen mid-leap while the camera keeps moving
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -344,6 +379,85 @@ Create a 10-second vertical wildlife-commercial shot in a sunlit savanna. A leop
 
 ---
 
+<a id="prompt-8"></a>
+
+#### #5: Early morning; sunlight filters through the forest canopy, casting
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A source-backed video prompt focused on timed action, tactile sound cues, and production-ready pacing.
+
+##### Source prompt
+
+```
+Early morning; sunlight filters through the forest canopy, casting a glow over the bank of a clear stream. The scene opens with a gentle, cinematic perspective. No faces are shown—only a pair of warm, capable hands. Shot 1: Hands carry a bamboo basket to the edge of the crystal-clear stream, where the water flows gently and small fish dart about. A hand uses a bamboo net to catch a fresh, silvery fish; it flops lightly in the basket, sending droplets of water splashing and sparkling in the sunlight. The atmosphere is natural, calm, and soothing. Shot 2: Moving to a wooden table by the stream, the hands begin preparing the ingredients. The fresh fish is placed on a wooden cutting board and slowly sliced ​​with a sharp knife, revealing the clear texture of the flesh through clean, fluid movements. Next, a block of tender white tofu is gently cut into neat, uniform cubes; the surface of the tofu appears soft and smooth. Shot 3: Tofu and fish soup is prepared in a traditional earthenware pot over a small stove at the edge of the forest. As the water begins to boil, fish slices, tofu, chopped scallions, and fresh vegetables are added. Steam rises gently, the broth turns a milky white, and the fish and tofu tumble softly within the simmering liquid. Shot 4: Finally, the camera closes in on a bowl of the freshly cooked soup. White steam drifts upward, and sunlight catches the surface of the broth; a simple wooden spoon and the bamboo basket sit nearby. The backdrop features the forest, the stream, and leaves swaying in the breeze, evoking a sense of returning to nature and finding peaceful happiness. Style Requirements: Warm, hand-drawn style reminiscent of Hayao Miyazaki’s animated films; delicate watercolor textures; soft, natural lighting; rich forest greens; a soothing, tranquil, and heartwarming atmosphere; a blend of high-quality 2D animation and 3D spatial depth; cinematic camera work; fluid, natural movement; realistic physical interactions; rich detail in the ingredients; 4K cinematic animation quality. Sound Design (Crucial): Use only natural ambient sounds—no background music, no dialogue. Sounds include: the clear sound of the flowing stream; birdsong; leaves rustling in the breeze; dripping water; the soft sounds of the knife slicing fish and tofu; the crackling of burning firewood; the bubbling of the earthenware pot; the sound of the soup simmering..
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079123345271136256/vid/avc1/1920x1080/stv5h4mJLVg6P1i_.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2079123345271136256/img/ZS0OHkasBrQH4Gbs.jpg" height="420" alt="Early morning; sunlight filters through the forest canopy, casting - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2079123345271136256/vid/avc1/1920x1080/stv5h4mJLVg6P1i_.mp4?tag=29)**
+</div>
+
+##### Evidence
+
+- **Creator:** [AIReel](https://x.com/AIReelofficial)
+- **Canonical source:** [Canonical source](https://x.com/AIReelofficial/status/2079531584869548309)
+- **Published:** July 21, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<a id="prompt-9"></a>
+
+#### #6: Avalanche rally-car continuous chase
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A source-backed Seedance 2.5 video prompt for a single-shot alpine action sequence with aerial-to-close camera movement.
+
+##### Source prompt
+
+```
+Hyper realistic blockbuster cinematic 15 second action sequence in one true unbroken continuous shot, with no cuts, no morphing, and no scene transitions. A rally car races along a narrow alpine cliff road in bright cold daylight, escaping a falling avalanche and trying to reach a tunnel before the route is buried. The camera begins high above in a wide aerial view revealing snow peaks, sheer drops, and the winding road, then physically dives toward the car into a close tracking chase. It glides beside the doors, drops low near the spinning tires as snow sprays, rises overhead to reveal the avalanche rushing behind, then arcs outward into a high circling drone like view before descending again into a front facing backward tracking move. The shot remains seamless throughout as the car drifts around icy switchbacks, clips loose snow, and bursts toward the tunnel just ahead of the collapsing slope.
+```
+
+##### Reference and result frames
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358073772945408/img/QdQ4DkwTFlI-e-Tc.jpg" width="100%" alt="Avalanche rally-car continuous chase - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" width="100%" alt="Avalanche rally-car continuous chase - Image 2"></td>
+</tr>
+</table>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2080358249719844864/vid/avc1/1280x720/1s22T4RgtkM-uRH-.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" height="420" alt="Avalanche rally-car continuous chase - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2080358249719844864/vid/avc1/1280x720/1s22T4RgtkM-uRH-.mp4?tag=29)**
+</div>
+
+##### Evidence
+
+- **Creator:** [Brent Lynch](https://x.com/BrentLynch)
+- **Canonical source:** [Canonical source](https://x.com/BrentLynch/status/2080359232160120942)
+- **Published:** July 23, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-dialogue-foley-music-timing"></a>
 
 ### Dialogue, Foley & Music Timing (1)
@@ -352,7 +466,7 @@ Performance-led prompts where speech, acting, ambience, music, or synchronized s
 
 <a id="prompt-4"></a>
 
-#### #4: Dark alien-arrival trailer
+#### #7: Dark alien-arrival trailer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -422,9 +536,9 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 ## Creator Credits
 
 <details>
-<summary>Community creators we thank (6)</summary>
+<summary>Community creators we thank (8)</summary>
 
-[@AIReelofficial](https://x.com/AIReelofficial) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [jzcreates](https://x.com/jzcreates)
+[@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
 
 </details>
 
@@ -444,6 +558,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-28T14:19:21.436Z</sub>
+<sub>Generated from versioned local data on 2026-07-28T10:51:12.906Z</sub>
 
 </div>
