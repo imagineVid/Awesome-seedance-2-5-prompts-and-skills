@@ -100,7 +100,7 @@
 |--------|-------|
 | أمثلة موثّقة | **9** |
 | اختيار تحريري | **2** |
-| تاريخ التوليد | **السبت، 1 أغسطس 2026 في 1:36:25 م UTC** |
+| تاريخ التوليد | **السبت، 1 أغسطس 2026 في 5:04:19 م UTC** |
 
 </div>
 
@@ -685,6 +685,6 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-01T13:36:25.247Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-01T17:04:19.138Z</sub>
 
 </div>
