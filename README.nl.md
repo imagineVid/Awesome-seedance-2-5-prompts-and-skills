@@ -100,7 +100,7 @@ Begin met één actie en één camera-idee. Voeg timing, audio- en behoudsbeperk
 |--------|-------|
 | Geverifieerde voorbeelden | **9** |
 | Redactionele keuze | **2** |
-| Gegenereerd | **zondag 2 augustus 2026 om 10:00:52 UTC** |
+| Gegenereerd | **zondag 2 augustus 2026 om 13:36:57 UTC** |
 
 </div>
 
@@ -685,6 +685,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-08-02T10:00:52.270Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-08-02T13:36:57.200Z</sub>
 
 </div>
