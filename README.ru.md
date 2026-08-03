@@ -100,7 +100,7 @@
 |--------|-------|
 | Проверенные примеры | **10** |
 | Редакционный выбор | **2** |
-| Сгенерировано | **понедельник, 3 августа 2026 г. в 13:15:44 UTC** |
+| Сгенерировано | **понедельник, 3 августа 2026 г. в 13:26:57 UTC** |
 
 </div>
 
@@ -732,6 +732,6 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T13:15:44.404Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T13:26:57.946Z</sub>
 
 </div>

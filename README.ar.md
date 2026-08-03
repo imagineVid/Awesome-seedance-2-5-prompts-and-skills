@@ -100,7 +100,7 @@
 |--------|-------|
 | أمثلة موثّقة | **10** |
 | اختيار تحريري | **2** |
-| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 1:15:44 م UTC** |
+| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 1:26:57 م UTC** |
 
 </div>
 
@@ -732,6 +732,6 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T13:15:44.389Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T13:26:57.927Z</sub>
 
 </div>
