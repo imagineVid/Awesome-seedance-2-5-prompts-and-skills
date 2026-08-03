@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **11** |
+| 검증된 사례 | **12** |
 | 에디터 추천 | **2** |
-| 생성 시각 | **2026년 8월 3일 월요일 PM 2시 14분 33초 UTC** |
+| 생성 시각 | **2026년 8월 3일 월요일 PM 3시 30분 4초 UTC** |
 
 </div>
 
@@ -523,27 +523,35 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 
 <a id="prompt-9"></a>
 
-#### #6: New case: Avalanche rally-car continuous chase
+#### #6: 끊김 없는 추격으로 그리는 눈사태 탈출
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### 이 워크플로가 중요한 이유
 
-X에서 선별한 프롬프트 사례로, 명확한 시각 목표와 제어 가능한 구도, 공개 미디어 증거, 추적 가능한 출처를 보존합니다.
+명확한 타이밍, 공중에서 지상으로 이어지는 카메라 동선, 물리적인 눈 표현과 네이티브 환경음을 담은 출처 기반 Seedance 2.5 롱테이크 브리프입니다.
 
 ##### 현지화 프롬프트
 
 ```
-현지화 버전: 아래 영어 원본 프롬프트의 카메라, 구도, 주체 일관성, 제약을 유지하고 화면 텍스트나 대사만 이 언어로 바꾸세요.
+현지화 버전: 영어 기준 프롬프트의 카메라, 타이밍, 차량 연속성과 제약을 유지하고 화면 텍스트나 대사만 조정하세요.
 
-Hyper realistic blockbuster cinematic 15 second action sequence in one true unbroken continuous shot, with no cuts, no morphing, and no scene transitions. A rally car races along a narrow alpine cliff road in bright cold daylight, escaping a falling avalanche and trying to reach a tunnel before the route is buried. The camera begins high above in a wide aerial view revealing snow peaks, sheer drops, and the winding road, then physically dives toward the car into a close tracking chase. It glides beside the doors, drops low near the spinning tires as snow sprays, rises overhead to reveal the avalanche rushing behind, then arcs outward into a high circling drone like view before descending again into a front facing backward tracking move. The shot remains seamless throughout as the car drifts around icy switchbacks, clips loose snow, and bursts toward the tunnel just ahead of the collapsing slope.
+Create a 15-second 16:9 photorealistic action film as one true continuous shot with no cuts, transitions, morphing, or time jumps. Keep the same rally car, driver, road geometry, snow, and lighting throughout.
+
+0.0-2.5s: begin with a high aerial view of a narrow alpine cliff road, sharp switchbacks, distant snow peaks, and an avalanche starting above the route. 2.5-5.5s: descend physically toward the rally car and settle into a close side chase as the tires throw cold powder and the suspension reacts to the uneven ice. 5.5-8.5s: drop beside the spinning rear wheel, then rise over the roof to reveal the avalanche gaining ground behind the car. 8.5-11.5s: arc outward into a wide circling drone-like move and descend into a front-facing backward tracking shot as the car drifts around the last switchback. 11.5-15.0s: keep the camera moving with the car as it clears the tunnel entrance just before the slope collapses behind it; finish on a brief spray of snow and a stable hero frame.
+
+Use cold daylight, realistic tire grip, suspension motion, airborne snow, rock contact, and consistent vehicle scale. Build native sound from engine load, tire chatter, wind, avalanche rumble, snow impact, tunnel reverb, and one restrained final music hit. Preserve believable geography and continuous motion. Avoid duplicate cars, changing road layouts, impossible camera teleportation, artificial camera shake, extra vehicles, logos, captions, watermarks, and cartoon or game-like rendering.
 ```
 
 <details>
 <summary>원문 출처 프롬프트</summary>
 
 ```
-Hyper realistic blockbuster cinematic 15 second action sequence in one true unbroken continuous shot, with no cuts, no morphing, and no scene transitions. A rally car races along a narrow alpine cliff road in bright cold daylight, escaping a falling avalanche and trying to reach a tunnel before the route is buried. The camera begins high above in a wide aerial view revealing snow peaks, sheer drops, and the winding road, then physically dives toward the car into a close tracking chase. It glides beside the doors, drops low near the spinning tires as snow sprays, rises overhead to reveal the avalanche rushing behind, then arcs outward into a high circling drone like view before descending again into a front facing backward tracking move. The shot remains seamless throughout as the car drifts around icy switchbacks, clips loose snow, and bursts toward the tunnel just ahead of the collapsing slope.
+Create a 15-second 16:9 photorealistic action film as one true continuous shot with no cuts, transitions, morphing, or time jumps. Keep the same rally car, driver, road geometry, snow, and lighting throughout.
+
+0.0-2.5s: begin with a high aerial view of a narrow alpine cliff road, sharp switchbacks, distant snow peaks, and an avalanche starting above the route. 2.5-5.5s: descend physically toward the rally car and settle into a close side chase as the tires throw cold powder and the suspension reacts to the uneven ice. 5.5-8.5s: drop beside the spinning rear wheel, then rise over the roof to reveal the avalanche gaining ground behind the car. 8.5-11.5s: arc outward into a wide circling drone-like move and descend into a front-facing backward tracking shot as the car drifts around the last switchback. 11.5-15.0s: keep the camera moving with the car as it clears the tunnel entrance just before the slope collapses behind it; finish on a brief spray of snow and a stable hero frame.
+
+Use cold daylight, realistic tire grip, suspension motion, airborne snow, rock contact, and consistent vehicle scale. Build native sound from engine load, tire chatter, wind, avalanche rumble, snow impact, tunnel reverb, and one restrained final music hit. Preserve believable geography and continuous motion. Avoid duplicate cars, changing road layouts, impossible camera teleportation, artificial camera shake, extra vehicles, logos, captions, watermarks, and cartoon or game-like rendering.
 ```
 
 </details>
@@ -552,15 +560,15 @@ Hyper realistic blockbuster cinematic 15 second action sequence in one true unbr
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358073772945408/img/QdQ4DkwTFlI-e-Tc.jpg" width="100%" alt="New case: Avalanche rally-car continuous chase - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" width="100%" alt="New case: Avalanche rally-car continuous chase - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358073772945408/img/QdQ4DkwTFlI-e-Tc.jpg" width="100%" alt="끊김 없는 추격으로 그리는 눈사태 탈출 - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" width="100%" alt="끊김 없는 추격으로 그리는 눈사태 탈출 - Image 2"></td>
 </tr>
 </table>
 
 ##### 동영상
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2080358249719844864/vid/avc1/1280x720/1s22T4RgtkM-uRH-.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" height="420" alt="New case: Avalanche rally-car continuous chase - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2080358249719844864/vid/avc1/1280x720/1s22T4RgtkM-uRH-.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" height="420" alt="끊김 없는 추격으로 그리는 눈사태 탈출 - Motion preview"></a>
 
 *미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2080358249719844864/vid/avc1/1280x720/1s22T4RgtkM-uRH-.mp4?tag=29)**
 </div>
@@ -578,7 +586,7 @@ Hyper realistic blockbuster cinematic 15 second action sequence in one true unbr
 
 <a id="workflow-dialogue-foley-music-timing"></a>
 
-### 대사, 폴리 및 음악 타이밍 (1)
+### 대사, 폴리 및 음악 타이밍 (2)
 
 대사, 연기, 분위기음, 음악 또는 동기화된 사운드가 장면을 이끄는 퍼포먼스 중심 프롬프트입니다.
 
@@ -626,6 +634,52 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 
 ---
 
+<a id="prompt-12"></a>
+
+#### #8: 촉각적인 ASMR 타이밍의 꽃 압화 브이로그
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+준비부터 촉각적인 꽃 압화, 자연스러운 대화, 책의 무게, 카드 배열과 캠코더 질감까지 연결하는 출처 기반 Seedance 2.5 UGC 브리프입니다.
+
+##### 현지화 프롬프트
+
+```
+실행 결과의 일관성을 위해 기준 프롬프트는 영어로 유지합니다. 다음은 현지화된 의도의 요약입니다:
+
+Create a 12-second vertical UGC-style video of an adult creator making a small flower press at a bright wooden desk. Use natural handheld smartphone framing, gentle focus breathing, and quiet room ambience. 0-3s: she places two delicate wildflowers on a cream card and says, “I’m pressing these before the color fades.” 3-6s: show a close-up of her fingertips aligning the stems, the paper fibers, and a small handwritten date card; keep the text limited to the date and make it cleanly readable. 6-9s: she closes a thick sketchbook over the flowers and presses down with both palms, emphasizing the soft paper creak and book weight. 9-12s: cut to a top-down reveal of the arranged card, dried leaves, and a small glass of water while she says, “Now we wait.” Preserve hand anatomy, flower identity, card placement, and natural daylight. Sync the dialogue, paper sounds, book movement, and tiny desk taps. Avoid jumpy edits, invented labels, distorted fingers, floating petals, logos, captions, or watermarks.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Create a 12-second vertical UGC-style video of an adult creator making a small flower press at a bright wooden desk. Use natural handheld smartphone framing, gentle focus breathing, and quiet room ambience. 0-3s: she places two delicate wildflowers on a cream card and says, “I’m pressing these before the color fades.” 3-6s: show a close-up of her fingertips aligning the stems, the paper fibers, and a small handwritten date card; keep the text limited to the date and make it cleanly readable. 6-9s: she closes a thick sketchbook over the flowers and presses down with both palms, emphasizing the soft paper creak and book weight. 9-12s: cut to a top-down reveal of the arranged card, dried leaves, and a small glass of water while she says, “Now we wait.” Preserve hand anatomy, flower identity, card placement, and natural daylight. Sync the dialogue, paper sounds, book movement, and tiny desk taps. Avoid jumpy edits, invented labels, distorted fingers, floating petals, logos, captions, or watermarks.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084268630556983296/vid/avc1/1920x1080/kPWIx5WQsdO1yzGR.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084268630556983296/img/OXmdFhcGjZVL1k5f.jpg" height="420" alt="촉각적인 ASMR 타이밍의 꽃 압화 브이로그 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2084268630556983296/vid/avc1/1920x1080/kPWIx5WQsdO1yzGR.mp4?tag=29)**
+</div>
+
+##### 근거
+
+- **제작자:** [𝐌](https://x.com/Strength04_X)
+- **정식 출처:** [정식 출처](https://x.com/Strength04_X/status/2084269139556761919)
+- **게시일:** 2026년 8월 3일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-narrative-continuity-character-performance"></a>
 
 ### 내러티브 연속성 및 캐릭터 연기 (3)
@@ -638,7 +692,7 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 
 <a id="prompt-10"></a>
 
-#### #8: 하와이 열대 여행 다이어리
+#### #9: 하와이 열대 여행 다이어리
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -684,7 +738,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 <a id="prompt-11"></a>
 
-#### #9: 유기농 식료품점 UGC 쇼핑 브이로그
+#### #10: 유기농 식료품점 UGC 쇼핑 브이로그
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -755,10 +809,10 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (10)</summary>
+<summary>Community creators we thank (11)</summary>
 
-[@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [Sharon Riley](https://x.com/Just_sharon7)<br>
-[Synthia](https://x.com/AIwithSynthia) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
+[@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [𝐌](https://x.com/Strength04_X)<br>
+[Sharon Riley](https://x.com/Just_sharon7) · [Synthia](https://x.com/AIwithSynthia) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
 
 </details>
 
@@ -778,6 +832,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T14:14:33.260Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T15:30:04.214Z</sub>
 
 </div>
