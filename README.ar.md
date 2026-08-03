@@ -98,9 +98,9 @@
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **10** |
+| أمثلة موثّقة | **11** |
 | اختيار تحريري | **2** |
-| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 1:26:57 م UTC** |
+| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 2:14:33 م UTC** |
 
 </div>
 
@@ -628,7 +628,7 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 
 <a id="workflow-narrative-continuity-character-performance"></a>
 
-### الاستمرارية السردية وأداء الشخصيات (2)
+### الاستمرارية السردية وأداء الشخصيات (3)
 
 اكتب الاستمرارية كقيد - احمِ الهوية والملابس وهندسة المنتج وتخطيط المكان والإضاءة
 
@@ -682,6 +682,52 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 ---
 
+<a id="prompt-11"></a>
+
+#### #9: مدونة تسوق UGC في متجر بقالة عضوية
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+موجز UGC لـ Seedance 2.5 يستند إلى مصدر موثوق، وينتقل من تصوير السيلفي إلى التعامل مع المنتج ومنظور عربة التسوق والتفاصيل اللمسية وختام دافئ عند الدفع.
+
+##### المطالبة المترجمة
+
+```
+يبقى الموجّه الأساسي باللغة الإنجليزية للحفاظ على اتساق التنفيذ؛ يلخّص هذا التنبيه المقصد المحلي:
+
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084264003682127872/img/03FN_WBFUXWCdzmT.jpg" height="420" alt="مدونة تسوق UGC في متجر بقالة عضوية - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [Synthia](https://x.com/AIwithSynthia)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/AIwithSynthia/status/2084264050717045019)
+- **تاريخ النشر:** 3 أغسطس 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 ## ساهم بمثال موثّق
 
 هل وجدت مثالًا لـ Seedance 2.5 يعلّم نمط إخراج حقيقيًا؟ أرسل المطالبة والنتيجة القابلة للتشغيل والمبدع والمصدر ودليل النموذج ونمط الإدخال عبر GitHub Issues.
@@ -709,10 +755,10 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 ## اعتمادات المبدعين
 
 <details>
-<summary>Community creators we thank (9)</summary>
+<summary>Community creators we thank (10)</summary>
 
 [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [Sharon Riley](https://x.com/Just_sharon7)<br>
-[Zephyra Leigh](https://x.com/ZephyraLeigh)
+[Synthia](https://x.com/AIwithSynthia) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
 
 </details>
 
@@ -732,6 +778,6 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T13:26:57.927Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T14:14:33.250Z</sub>
 
 </div>

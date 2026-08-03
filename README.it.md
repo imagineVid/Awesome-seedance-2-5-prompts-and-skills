@@ -98,9 +98,9 @@ Inizia con un'azione e un'idea per la camera. Aggiungi timing, audio e vincoli d
 
 | Campo della raccolta | Valore corrente |
 |--------|-------|
-| Casi verificati | **10** |
+| Casi verificati | **11** |
 | Selezione editoriale | **2** |
-| Generato | **lunedì 3 agosto 2026 alle ore 13:26:57 UTC** |
+| Generato | **lunedì 3 agosto 2026 alle ore 14:14:33 UTC** |
 
 </div>
 
@@ -628,7 +628,7 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 
 <a id="workflow-narrative-continuity-character-performance"></a>
 
-### Continuità narrativa e performance del personaggio (2)
+### Continuità narrativa e performance del personaggio (3)
 
 Scrivi la continuità come vincolo - Proteggi identità, costumi, geometria del prodotto, spazio e illuminazione
 
@@ -682,6 +682,52 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 ---
 
+<a id="prompt-11"></a>
+
+#### #9: Vlog UGC di spesa in un supermercato biologico
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Perché il workflow è importante
+
+Un brief UGC per Seedance 2.5 basato su una fonte, che passa dalle riprese selfie alla manipolazione del prodotto, alla visuale dal carrello, ai dettagli tattili e a una chiusura calorosa alla cassa.
+
+##### Prompt tradotto
+
+```
+Il prompt canonico resta in inglese per mantenere coerenti i risultati; questa nota riassume l’intento localizzato:
+
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+<details>
+<summary>Prompt della fonte originale</summary>
+
+```
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084264003682127872/img/03FN_WBFUXWCdzmT.jpg" height="420" alt="Vlog UGC di spesa in un supermercato biologico - Motion preview"></a>
+
+*Fai clic sull'anteprima per aprire il video* · **[▶ Guarda il video →](https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29)**
+</div>
+
+##### Elementi di prova
+
+- **Autore:** [Synthia](https://x.com/AIwithSynthia)
+- **Fonte canonica:** [Fonte canonica](https://x.com/AIwithSynthia/status/2084264050717045019)
+- **Pubblicato:** 3 agosto 2026
+- **Lingua del prompt:** en
+
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 ## Contribuisci con un caso verificato
 
 Hai trovato un caso di Seedance 2.5 che insegna una vera tecnica registica? Invia il prompt, il risultato riproducibile, il creator, la fonte, le prove del modello e la modalità di input tramite GitHub Issues.
@@ -709,10 +755,10 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 ## Crediti dei creator
 
 <details>
-<summary>Community creators we thank (9)</summary>
+<summary>Community creators we thank (10)</summary>
 
 [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [Sharon Riley](https://x.com/Just_sharon7)<br>
-[Zephyra Leigh](https://x.com/ZephyraLeigh)
+[Synthia](https://x.com/AIwithSynthia) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
 
 </details>
 
@@ -732,6 +778,6 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 **[Invia un caso verificato](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-08-03T13:26:57.915Z</sub>
+<sub>Generato dai dati locali versionati il 2026-08-03T14:14:33.236Z</sub>
 
 </div>

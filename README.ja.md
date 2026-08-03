@@ -98,9 +98,9 @@
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **10** |
+| 検証済みケース | **11** |
 | 編集部のおすすめ | **2** |
-| 生成日時 | **2026年8月3日月曜日 13:26:57 UTC** |
+| 生成日時 | **2026年8月3日月曜日 14:14:33 UTC** |
 
 </div>
 
@@ -628,7 +628,7 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 
 <a id="workflow-narrative-continuity-character-performance"></a>
 
-### 物語の連続性とキャラクター演技 (2)
+### 物語の連続性とキャラクター演技 (3)
 
 連続性を制約として書く - 人物、衣装、製品形状、空間配置、照明をシーケンス全体で維持する
 
@@ -682,6 +682,52 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 ---
 
+<a id="prompt-11"></a>
+
+#### #9: オーガニック食料品店のUGC買い物 vlog
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+セルフィー撮影から商品操作、カート視点、触感のあるディテール、温かいレジ前の締めまでをつなぐ、出典付きSeedance 2.5 UGCブリーフ。
+
+##### ローカライズ済みプロンプト
+
+```
+実行結果の一貫性を保つため、基準プロンプトは英語のまま掲載します。以下はローカライズした意図の要約です：
+
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084264003682127872/img/03FN_WBFUXWCdzmT.jpg" height="420" alt="オーガニック食料品店のUGC買い物 vlog - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [Synthia](https://x.com/AIwithSynthia)
+- **正規の出典:** [正規の出典](https://x.com/AIwithSynthia/status/2084264050717045019)
+- **公開日:** 2026年8月3日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 ## 検証済みケースを投稿する
 
 実際の演出パターンを学べるSeedance 2.5のケースを見つけましたか？プロンプト、再生可能な結果、クリエイター、出典、モデルエビデンス、入力モードをGitHub Issuesから送ってください。
@@ -709,10 +755,10 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (9)</summary>
+<summary>Community creators we thank (10)</summary>
 
 [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [Sharon Riley](https://x.com/Just_sharon7)<br>
-[Zephyra Leigh](https://x.com/ZephyraLeigh)
+[Synthia](https://x.com/AIwithSynthia) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
 
 </details>
 
@@ -732,6 +778,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-08-03T13:26:57.931Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-08-03T14:14:33.254Z</sub>
 
 </div>

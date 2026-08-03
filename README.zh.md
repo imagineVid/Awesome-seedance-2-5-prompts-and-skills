@@ -98,9 +98,9 @@
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **10** |
+| 已核验案例 | **11** |
 | 编辑精选 | **2** |
-| 生成时间 | **2026年8月3日星期一 UTC 13:26:57** |
+| 生成时间 | **2026年8月3日星期一 UTC 14:14:33** |
 
 </div>
 
@@ -628,7 +628,7 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 
 <a id="workflow-narrative-continuity-character-performance"></a>
 
-### 叙事连续性与角色表演 (2)
+### 叙事连续性与角色表演 (3)
 
 把连续性写成硬约束 - 在整段序列中保护身份、服装、产品几何、空间布局和光线
 
@@ -682,6 +682,52 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 ---
 
+<a id="prompt-11"></a>
+
+#### #9: 有机超市 UGC 购物 vlog
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+从自拍镜头、商品操作、购物车 POV、触感细节到温暖结账收尾的来源明确 Seedance 2.5 UGC 视频简报。
+
+##### 本地化提示词
+
+```
+为保持执行结果一致，标准提示词保留英文；下面是本地化意图摘要：
+
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084264003682127872/img/03FN_WBFUXWCdzmT.jpg" height="420" alt="有机超市 UGC 购物 vlog - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29)**
+</div>
+
+##### 证据
+
+- **创作者:** [Synthia](https://x.com/AIwithSynthia)
+- **规范来源:** [规范来源](https://x.com/AIwithSynthia/status/2084264050717045019)
+- **发布时间:** 2026年8月3日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 ## 贡献已核验案例
 
 找到能教会真实导演模式的 Seedance 2.5 案例？通过 GitHub Issues 提交提示词、可播放结果、创作者、来源、模型证据和输入模式。
@@ -709,10 +755,10 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 ## 创作者鸣谢
 
 <details>
-<summary>查看并感谢社区作者 (9)</summary>
+<summary>查看并感谢社区作者 (10)</summary>
 
 [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [Sharon Riley](https://x.com/Just_sharon7)<br>
-[Zephyra Leigh](https://x.com/ZephyraLeigh)
+[Synthia](https://x.com/AIwithSynthia) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
 
 </details>
 
@@ -732,6 +778,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-08-03T13:26:57.939Z</sub>
+<sub>根据版本化本地数据生成于 2026-08-03T14:14:33.267Z</sub>
 
 </div>

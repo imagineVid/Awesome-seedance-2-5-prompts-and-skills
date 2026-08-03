@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **10** |
+| 검증된 사례 | **11** |
 | 에디터 추천 | **2** |
-| 생성 시각 | **2026년 8월 3일 월요일 오후 1시 26분 57초 UTC** |
+| 생성 시각 | **2026년 8월 3일 월요일 PM 2시 14분 33초 UTC** |
 
 </div>
 
@@ -628,7 +628,7 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 
 <a id="workflow-narrative-continuity-character-performance"></a>
 
-### 내러티브 연속성 및 캐릭터 연기 (2)
+### 내러티브 연속성 및 캐릭터 연기 (3)
 
 연속성을 제약으로 작성 - 시퀀스 전반에서 인물, 의상, 제품 형태, 공간 배치와 조명을 보호합니다
 
@@ -682,6 +682,52 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 ---
 
+<a id="prompt-11"></a>
+
+#### #9: 유기농 식료품점 UGC 쇼핑 브이로그
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+셀피 촬영에서 상품 조작, 카트 POV, 촉각적 디테일 샷, 따뜻한 계산대 엔딩까지 연결하는 출처 기반 Seedance 2.5 UGC 브리프입니다.
+
+##### 현지화 프롬프트
+
+```
+실행 결과의 일관성을 위해 기준 프롬프트는 영어로 유지합니다. 다음은 현지화된 의도의 요약입니다:
+
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084264003682127872/img/03FN_WBFUXWCdzmT.jpg" height="420" alt="유기농 식료품점 UGC 쇼핑 브이로그 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2084264003682127872/vid/avc1/1280x720/1rGrJnPoav8yYZRW.mp4?tag=29)**
+</div>
+
+##### 근거
+
+- **제작자:** [Synthia](https://x.com/AIwithSynthia)
+- **정식 출처:** [정식 출처](https://x.com/AIwithSynthia/status/2084264050717045019)
+- **게시일:** 2026년 8월 3일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 ## 검증된 사례 기여하기
 
 실제 연출 패턴을 가르치는 Seedance 2.5 사례를 찾았나요? GitHub Issues를 통해 프롬프트, 재생 가능한 결과, 제작자, 출처, 모델 근거, 입력 모드를 제출하세요.
@@ -709,10 +755,10 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (9)</summary>
+<summary>Community creators we thank (10)</summary>
 
 [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [Sharon Riley](https://x.com/Just_sharon7)<br>
-[Zephyra Leigh](https://x.com/ZephyraLeigh)
+[Synthia](https://x.com/AIwithSynthia) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
 
 </details>
 
@@ -732,6 +778,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T13:26:57.935Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T14:14:33.260Z</sub>
 
 </div>

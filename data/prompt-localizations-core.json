@@ -29,6 +29,11 @@
     "10": {
       "title": "Diario de viaje tropical por Hawái",
       "description": "Un caso respaldado por fuentes que explora «Diario de viaje tropical por Hawái», con instrucciones reutilizables y medios de resultado verificables."
+    },
+    "11": {
+      "title": "Vlog UGC de compras en un supermercado ecológico",
+      "description": "Un briefing UGC de Seedance 2.5 basado en una fuente que pasa del plano selfie al manejo del producto, la vista desde el carrito, los detalles táctiles y un cierre cálido en caja.",
+      "content": "El prompt canónico se conserva en inglés para mantener la consistencia de ejecución; esta nota resume la intención localizada:\n\nCreate a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality."
     }
   },
   "de": {
@@ -61,6 +66,11 @@
     "10": {
       "title": "Tropisches Reisetagebuch aus Hawaii",
       "description": "Ein quellenbelegter Fall zu „Tropisches Reisetagebuch aus Hawaii“ mit wiederverwendbaren Anweisungen und überprüfbaren Ergebnismedien."
+    },
+    "11": {
+      "title": "UGC-Einkaufsvlog im Bio-Supermarkt",
+      "description": "Ein quellenbasiertes Seedance-2.5-UGC-Briefing vom Selfie-Setup über Produktinteraktion, Einkaufswagen-Perspektive und taktile Details bis zum warmen Kassenabschluss.",
+      "content": "Der kanonische Prompt bleibt zur konsistenten Ausführung auf Englisch; diese Notiz fasst die lokalisierte Absicht zusammen:\n\nCreate a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality."
     }
   },
   "fr": {
@@ -93,6 +103,11 @@
     "10": {
       "title": "Carnet de voyage tropical à Hawaï",
       "description": "Un cas documenté par une source autour de « Carnet de voyage tropical à Hawaï », avec des instructions réutilisables et un résultat vérifiable."
+    },
+    "11": {
+      "title": "Vlog UGC de courses dans une épicerie bio",
+      "description": "Un brief UGC Seedance 2.5 documenté par une source, du selfie à la manipulation du produit, au point de vue du chariot, aux détails tactiles et à une fin chaleureuse en caisse.",
+      "content": "Le prompt canonique reste en anglais pour garantir une exécution cohérente ; cette note résume l’intention localisée :\n\nCreate a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality."
     }
   },
   "ja": {
@@ -125,6 +140,11 @@
     "10": {
       "title": "ハワイを巡るトロピカル旅日記",
       "description": "「ハワイを巡るトロピカル旅日記」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。"
+    },
+    "11": {
+      "title": "オーガニック食料品店のUGC買い物 vlog",
+      "description": "セルフィー撮影から商品操作、カート視点、触感のあるディテール、温かいレジ前の締めまでをつなぐ、出典付きSeedance 2.5 UGCブリーフ。",
+      "content": "実行結果の一貫性を保つため、基準プロンプトは英語のまま掲載します。以下はローカライズした意図の要約です：\n\nCreate a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality."
     }
   },
   "ko": {
@@ -157,6 +177,11 @@
     "10": {
       "title": "하와이 열대 여행 다이어리",
       "description": "검증 가능한 결과 미디어와 재사용 가능한 지침으로 '하와이 열대 여행 다이어리'을 테스트하는 출처 기반 사례입니다."
+    },
+    "11": {
+      "title": "유기농 식료품점 UGC 쇼핑 브이로그",
+      "description": "셀피 촬영에서 상품 조작, 카트 POV, 촉각적 디테일 샷, 따뜻한 계산대 엔딩까지 연결하는 출처 기반 Seedance 2.5 UGC 브리프입니다.",
+      "content": "실행 결과의 일관성을 위해 기준 프롬프트는 영어로 유지합니다. 다음은 현지화된 의도의 요약입니다:\n\nCreate a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality."
     }
   },
   "zh": {
@@ -189,6 +214,11 @@
     "10": {
       "title": "夏威夷热带旅行日记",
       "description": "以可复用指令和可核验结果媒体测试“夏威夷热带旅行日记”的来源明确案例。"
+    },
+    "11": {
+      "title": "有机超市 UGC 购物 vlog",
+      "description": "从自拍镜头、商品操作、购物车 POV、触感细节到温暖结账收尾的来源明确 Seedance 2.5 UGC 视频简报。",
+      "content": "为保持执行结果一致，标准提示词保留英文；下面是本地化意图摘要：\n\nCreate a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. Open with a young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks to the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, slowly turning it so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with satisfaction. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Show a close-up of her hand selecting fresh oranges, gently inspecting one, placing it into the cart, then picking up a vivid dragon fruit, rotating it naturally in her hand, admiring its color, and placing it in the cart. Finish with her walking toward checkout while smiling at the camera and pushing the cart under warm golden lighting. Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle-commercial quality."
     }
   }
 }
