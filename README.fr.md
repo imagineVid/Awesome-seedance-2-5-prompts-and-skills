@@ -98,9 +98,9 @@ Commencez par une action et une idée de caméra. Ajoutez le timing, l'audio et 
 
 | Champ de la collection | Valeur actuelle |
 |--------|-------|
-| Cas vérifiés | **11** |
+| Cas vérifiés | **12** |
 | Sélection éditoriale | **2** |
-| Généré | **lundi 3 août 2026 à 14:48:17 UTC** |
+| Généré | **lundi 3 août 2026 à 15:30:04 UTC** |
 
 </div>
 
@@ -523,27 +523,35 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 
 <a id="prompt-9"></a>
 
-#### #6: New case: Avalanche rally-car continuous chase
+#### #6: Échapper à l’avalanche dans une poursuite en plan-séquence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### Pourquoi le workflow est important
 
-Cas selectionne depuis X avec objectif visuel clair, composition controlable, preuve media publique et source tracable.
+Un brief Seedance 2.5 en plan-séquence, documenté par une source, avec minutage précis, caméra de l’aérien au sol, neige physique et son d’ambiance natif.
 
 ##### Prompt localisé
 
 ```
-Version localisee : conservez camera, composition, continuite du sujet et contraintes du prompt source anglais ; adaptez seulement le texte visible ou les dialogues.
+Version localisée : conserver la caméra, le minutage, la continuité du véhicule et les contraintes du prompt canonique anglais ; adapter uniquement le texte visible ou les dialogues.
 
-Hyper realistic blockbuster cinematic 15 second action sequence in one true unbroken continuous shot, with no cuts, no morphing, and no scene transitions. A rally car races along a narrow alpine cliff road in bright cold daylight, escaping a falling avalanche and trying to reach a tunnel before the route is buried. The camera begins high above in a wide aerial view revealing snow peaks, sheer drops, and the winding road, then physically dives toward the car into a close tracking chase. It glides beside the doors, drops low near the spinning tires as snow sprays, rises overhead to reveal the avalanche rushing behind, then arcs outward into a high circling drone like view before descending again into a front facing backward tracking move. The shot remains seamless throughout as the car drifts around icy switchbacks, clips loose snow, and bursts toward the tunnel just ahead of the collapsing slope.
+Create a 15-second 16:9 photorealistic action film as one true continuous shot with no cuts, transitions, morphing, or time jumps. Keep the same rally car, driver, road geometry, snow, and lighting throughout.
+
+0.0-2.5s: begin with a high aerial view of a narrow alpine cliff road, sharp switchbacks, distant snow peaks, and an avalanche starting above the route. 2.5-5.5s: descend physically toward the rally car and settle into a close side chase as the tires throw cold powder and the suspension reacts to the uneven ice. 5.5-8.5s: drop beside the spinning rear wheel, then rise over the roof to reveal the avalanche gaining ground behind the car. 8.5-11.5s: arc outward into a wide circling drone-like move and descend into a front-facing backward tracking shot as the car drifts around the last switchback. 11.5-15.0s: keep the camera moving with the car as it clears the tunnel entrance just before the slope collapses behind it; finish on a brief spray of snow and a stable hero frame.
+
+Use cold daylight, realistic tire grip, suspension motion, airborne snow, rock contact, and consistent vehicle scale. Build native sound from engine load, tire chatter, wind, avalanche rumble, snow impact, tunnel reverb, and one restrained final music hit. Preserve believable geography and continuous motion. Avoid duplicate cars, changing road layouts, impossible camera teleportation, artificial camera shake, extra vehicles, logos, captions, watermarks, and cartoon or game-like rendering.
 ```
 
 <details>
 <summary>Prompt source original</summary>
 
 ```
-Hyper realistic blockbuster cinematic 15 second action sequence in one true unbroken continuous shot, with no cuts, no morphing, and no scene transitions. A rally car races along a narrow alpine cliff road in bright cold daylight, escaping a falling avalanche and trying to reach a tunnel before the route is buried. The camera begins high above in a wide aerial view revealing snow peaks, sheer drops, and the winding road, then physically dives toward the car into a close tracking chase. It glides beside the doors, drops low near the spinning tires as snow sprays, rises overhead to reveal the avalanche rushing behind, then arcs outward into a high circling drone like view before descending again into a front facing backward tracking move. The shot remains seamless throughout as the car drifts around icy switchbacks, clips loose snow, and bursts toward the tunnel just ahead of the collapsing slope.
+Create a 15-second 16:9 photorealistic action film as one true continuous shot with no cuts, transitions, morphing, or time jumps. Keep the same rally car, driver, road geometry, snow, and lighting throughout.
+
+0.0-2.5s: begin with a high aerial view of a narrow alpine cliff road, sharp switchbacks, distant snow peaks, and an avalanche starting above the route. 2.5-5.5s: descend physically toward the rally car and settle into a close side chase as the tires throw cold powder and the suspension reacts to the uneven ice. 5.5-8.5s: drop beside the spinning rear wheel, then rise over the roof to reveal the avalanche gaining ground behind the car. 8.5-11.5s: arc outward into a wide circling drone-like move and descend into a front-facing backward tracking shot as the car drifts around the last switchback. 11.5-15.0s: keep the camera moving with the car as it clears the tunnel entrance just before the slope collapses behind it; finish on a brief spray of snow and a stable hero frame.
+
+Use cold daylight, realistic tire grip, suspension motion, airborne snow, rock contact, and consistent vehicle scale. Build native sound from engine load, tire chatter, wind, avalanche rumble, snow impact, tunnel reverb, and one restrained final music hit. Preserve believable geography and continuous motion. Avoid duplicate cars, changing road layouts, impossible camera teleportation, artificial camera shake, extra vehicles, logos, captions, watermarks, and cartoon or game-like rendering.
 ```
 
 </details>
@@ -552,15 +560,15 @@ Hyper realistic blockbuster cinematic 15 second action sequence in one true unbr
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358073772945408/img/QdQ4DkwTFlI-e-Tc.jpg" width="100%" alt="New case: Avalanche rally-car continuous chase - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" width="100%" alt="New case: Avalanche rally-car continuous chase - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358073772945408/img/QdQ4DkwTFlI-e-Tc.jpg" width="100%" alt="Échapper à l’avalanche dans une poursuite en plan-séquence - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" width="100%" alt="Échapper à l’avalanche dans une poursuite en plan-séquence - Image 2"></td>
 </tr>
 </table>
 
 ##### Vidéo
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2080358249719844864/vid/avc1/1280x720/1s22T4RgtkM-uRH-.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" height="420" alt="New case: Avalanche rally-car continuous chase - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2080358249719844864/vid/avc1/1280x720/1s22T4RgtkM-uRH-.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2080358249719844864/img/Eefi6d1zUqPCw5KH.jpg" height="420" alt="Échapper à l’avalanche dans une poursuite en plan-séquence - Motion preview"></a>
 
 *Cliquez sur l'aperçu pour ouvrir la vidéo* · **[▶ Voir la vidéo →](https://video.twimg.com/amplify_video/2080358249719844864/vid/avc1/1280x720/1s22T4RgtkM-uRH-.mp4?tag=29)**
 </div>
@@ -578,7 +586,7 @@ Hyper realistic blockbuster cinematic 15 second action sequence in one true unbr
 
 <a id="workflow-dialogue-foley-music-timing"></a>
 
-### Timing du dialogue, des bruitages et de la musique (1)
+### Timing du dialogue, des bruitages et de la musique (2)
 
 Prompts centrés sur l'interprétation, où la parole, le jeu, l'ambiance, la musique ou un son synchronisé portent la scène.
 
@@ -626,6 +634,52 @@ A cinematic, dark and mysterious trailer for a movie about aliens arriving on Ea
 
 ---
 
+<a id="prompt-12"></a>
+
+#### #8: Vlog de pressage de fleurs avec rythme ASMR tactile
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Pourquoi le workflow est important
+
+Un brief UGC Seedance 2.5 documenté par une source, de la préparation au pressage tactile des fleurs, avec dialogue naturel, poids du livre, arrangement des cartes et réalisme de caméscope.
+
+##### Prompt localisé
+
+```
+Le prompt canonique reste en anglais pour garantir une exécution cohérente ; cette note résume l’intention localisée :
+
+Create a 12-second vertical UGC-style video of an adult creator making a small flower press at a bright wooden desk. Use natural handheld smartphone framing, gentle focus breathing, and quiet room ambience. 0-3s: she places two delicate wildflowers on a cream card and says, “I’m pressing these before the color fades.” 3-6s: show a close-up of her fingertips aligning the stems, the paper fibers, and a small handwritten date card; keep the text limited to the date and make it cleanly readable. 6-9s: she closes a thick sketchbook over the flowers and presses down with both palms, emphasizing the soft paper creak and book weight. 9-12s: cut to a top-down reveal of the arranged card, dried leaves, and a small glass of water while she says, “Now we wait.” Preserve hand anatomy, flower identity, card placement, and natural daylight. Sync the dialogue, paper sounds, book movement, and tiny desk taps. Avoid jumpy edits, invented labels, distorted fingers, floating petals, logos, captions, or watermarks.
+```
+
+<details>
+<summary>Prompt source original</summary>
+
+```
+Create a 12-second vertical UGC-style video of an adult creator making a small flower press at a bright wooden desk. Use natural handheld smartphone framing, gentle focus breathing, and quiet room ambience. 0-3s: she places two delicate wildflowers on a cream card and says, “I’m pressing these before the color fades.” 3-6s: show a close-up of her fingertips aligning the stems, the paper fibers, and a small handwritten date card; keep the text limited to the date and make it cleanly readable. 6-9s: she closes a thick sketchbook over the flowers and presses down with both palms, emphasizing the soft paper creak and book weight. 9-12s: cut to a top-down reveal of the arranged card, dried leaves, and a small glass of water while she says, “Now we wait.” Preserve hand anatomy, flower identity, card placement, and natural daylight. Sync the dialogue, paper sounds, book movement, and tiny desk taps. Avoid jumpy edits, invented labels, distorted fingers, floating petals, logos, captions, or watermarks.
+```
+
+</details>
+
+##### Vidéo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084268630556983296/vid/avc1/1920x1080/kPWIx5WQsdO1yzGR.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084268630556983296/img/OXmdFhcGjZVL1k5f.jpg" height="420" alt="Vlog de pressage de fleurs avec rythme ASMR tactile - Motion preview"></a>
+
+*Cliquez sur l'aperçu pour ouvrir la vidéo* · **[▶ Voir la vidéo →](https://video.twimg.com/amplify_video/2084268630556983296/vid/avc1/1920x1080/kPWIx5WQsdO1yzGR.mp4?tag=29)**
+</div>
+
+##### Éléments de preuve
+
+- **Créateur:** [𝐌](https://x.com/Strength04_X)
+- **Source canonique:** [Source canonique](https://x.com/Strength04_X/status/2084269139556761919)
+- **Publié:** 3 août 2026
+- **Langue du prompt:** en
+
+**[Créer avec cette direction · ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
 <a id="workflow-narrative-continuity-character-performance"></a>
 
 ### Continuité narrative et jeu des personnages (3)
@@ -638,7 +692,7 @@ Formulez la continuité comme une contrainte - Préservez identité, tenue, géo
 
 <a id="prompt-10"></a>
 
-#### #8: Carnet de voyage tropical à Hawaï
+#### #9: Carnet de voyage tropical à Hawaï
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -684,7 +738,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 <a id="prompt-11"></a>
 
-#### #9: Vlog UGC de courses dans une épicerie bio
+#### #10: Vlog UGC de courses dans une épicerie bio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -755,10 +809,10 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 ## Crédits des créateurs
 
 <details>
-<summary>Community creators we thank (10)</summary>
+<summary>Community creators we thank (11)</summary>
 
-[@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [Sharon Riley](https://x.com/Just_sharon7)<br>
-[Synthia](https://x.com/AIwithSynthia) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
+[@JSFILMZ0412](https://x.com/JSFILMZ0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@synthwavedd](https://x.com/synthwavedd) · [@thedoomguy_ai](https://x.com/thedoomguy_ai) · [AIReel](https://x.com/AIReelofficial) · [Brent Lynch](https://x.com/BrentLynch) · [jzcreates](https://x.com/jzcreates) · [𝐌](https://x.com/Strength04_X)<br>
+[Sharon Riley](https://x.com/Just_sharon7) · [Synthia](https://x.com/AIwithSynthia) · [Zephyra Leigh](https://x.com/ZephyraLeigh)
 
 </details>
 
@@ -778,6 +832,6 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 **[Proposer un cas vérifié](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Ajouter une étoile à la collection](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Généré à partir des données locales versionnées le 2026-08-03T14:48:17.986Z</sub>
+<sub>Généré à partir des données locales versionnées le 2026-08-03T15:30:04.203Z</sub>
 
 </div>
