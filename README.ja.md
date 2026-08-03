@@ -100,7 +100,7 @@
 |--------|-------|
 | 検証済みケース | **9** |
 | 編集部のおすすめ | **2** |
-| 生成日時 | **2026年8月2日日曜日 21:00:14 UTC** |
+| 生成日時 | **2026年8月3日月曜日 3:23:52 UTC** |
 
 </div>
 
@@ -685,6 +685,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-08-02T21:00:14.113Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-08-03T03:23:52.399Z</sub>
 
 </div>
