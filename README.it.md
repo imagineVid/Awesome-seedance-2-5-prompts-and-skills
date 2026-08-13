@@ -100,7 +100,7 @@ Inizia con un'azione e un'idea per la camera. Aggiungi timing, audio e vincoli d
 |--------|-------|
 | Casi verificati | **12** |
 | Selezione editoriale | **2** |
-| Generato | **giovedì 13 agosto 2026 alle ore 16:59:41 UTC** |
+| Generato | **giovedì 13 agosto 2026 alle ore 20:48:56 UTC** |
 
 </div>
 
@@ -832,6 +832,6 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 **[Invia un caso verificato](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-08-13T16:59:41.407Z</sub>
+<sub>Generato dai dati locali versionati il 2026-08-13T20:48:56.400Z</sub>
 
 </div>
