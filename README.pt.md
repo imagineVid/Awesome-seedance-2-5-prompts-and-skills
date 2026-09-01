@@ -100,7 +100,7 @@ Comece com uma ação e uma ideia de câmara. Acrescente timing, áudio e restri
 |--------|-------|
 | Casos verificados | **12** |
 | Seleção editorial | **2** |
-| Gerado | **segunda-feira, 31 de agosto de 2026 às 21:26:34 UTC** |
+| Gerado | **terça-feira, 1 de setembro de 2026 às 04:22:38 UTC** |
 
 </div>
 
@@ -832,6 +832,6 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 **[Enviar um caso verificado](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma estrela à coleção](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Gerado a partir de dados locais versionados em 2026-08-31T21:26:34.042Z</sub>
+<sub>Gerado a partir de dados locais versionados em 2026-09-01T04:22:38.070Z</sub>
 
 </div>
