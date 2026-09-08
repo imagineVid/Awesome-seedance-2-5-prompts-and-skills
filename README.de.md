@@ -100,7 +100,7 @@ Beginne mit einer Handlung und einer Kameridee. Füge Timing, Audio und Erhaltun
 |--------|-------|
 | Verifizierte Fälle | **12** |
 | Redaktionelle Auswahl | **2** |
-| Generiert | **Dienstag, 8. September 2026 um 16:20:12 UTC** |
+| Generiert | **Dienstag, 8. September 2026 um 22:28:14 UTC** |
 
 </div>
 
@@ -832,6 +832,6 @@ Von ImagineVid verfasste redaktionelle Texte und Code stehen unter [CC BY 4.0](h
 **[Einen verifizierten Fall einreichen](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Die Sammlung mit einem Stern markieren](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generiert aus versionierten lokalen Daten am 2026-09-08T16:20:12.103Z</sub>
+<sub>Generiert aus versionierten lokalen Daten am 2026-09-08T22:28:14.867Z</sub>
 
 </div>
