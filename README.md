@@ -100,7 +100,7 @@ Start with one visible action and one camera decision. Add references, sound, ti
 |--------|-------|
 | Verified Cases | **12** |
 | Editorial pick | **2** |
-| Generated | **Tuesday, September 22, 2026 at 4:07:20 AM UTC** |
+| Generated | **Tuesday, September 22, 2026 at 1:13:58 PM UTC** |
 
 </div>
 
@@ -668,6 +668,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-09-22T04:07:20.518Z</sub>
+<sub>Generated from versioned local data on 2026-09-22T13:13:58.913Z</sub>
 
 </div>
