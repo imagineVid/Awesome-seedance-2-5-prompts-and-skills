@@ -100,7 +100,7 @@
 |--------|-------|
 | 검증된 사례 | **12** |
 | 에디터 추천 | **2** |
-| 생성 시각 | **2026년 10월 22일 목요일 오후 11시 5분 31초 UTC** |
+| 생성 시각 | **2026년 10월 23일 금요일 오전 4시 3분 18초 UTC** |
 
 </div>
 
@@ -832,6 +832,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-10-22T23:05:31.863Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-10-23T04:03:18.914Z</sub>
 
 </div>
