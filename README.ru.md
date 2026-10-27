@@ -100,7 +100,7 @@
 |--------|-------|
 | Проверенные примеры | **12** |
 | Редакционный выбор | **2** |
-| Сгенерировано | **понедельник, 26 октября 2026 г. в 20:56:27 UTC** |
+| Сгенерировано | **вторник, 27 октября 2026 г. в 04:22:08 UTC** |
 
 </div>
 
@@ -832,6 +832,6 @@ Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically o
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-10-26T20:56:27.663Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-10-27T04:22:08.742Z</sub>
 
 </div>
