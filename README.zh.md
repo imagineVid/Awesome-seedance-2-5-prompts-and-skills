@@ -100,7 +100,7 @@
 |--------|-------|
 | 已核验案例 | **12** |
 | 编辑精选 | **2** |
-| 生成时间 | **2026年10月28日星期三 UTC 04:52:51** |
+| 生成时间 | **2026年10月28日星期三 UTC 14:57:23** |
 
 </div>
 
@@ -832,6 +832,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-10-28T04:52:51.133Z</sub>
+<sub>根据版本化本地数据生成于 2026-10-28T14:57:23.663Z</sub>
 
 </div>
