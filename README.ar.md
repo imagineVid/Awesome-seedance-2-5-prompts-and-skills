@@ -100,7 +100,7 @@
 |--------|-------|
 | أمثلة موثّقة | **12** |
 | اختيار تحريري | **2** |
-| تاريخ التوليد | **السبت، 31 أكتوبر 2026 في 11:11:36 م UTC** |
+| تاريخ التوليد | **الأحد، 1 نوفمبر 2026 في 5:15:08 ص UTC** |
 
 </div>
 
@@ -832,6 +832,6 @@ Create a realistic UGC-style lifestyle grocery-shopping vlog filmed vertically o
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-10-31T23:11:36.553Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-11-01T05:15:08.149Z</sub>
 
 </div>
